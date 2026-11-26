@@ -1,0 +1,78 @@
+{
+  "id": "qianziwen",
+  "legacyIndex": null,
+  "title": "千字文",
+  "aliases": [],
+  "byline": "南梁 · 周興嗣",
+  "author": "周興嗣",
+  "dynasty": "南梁",
+  "section": "经",
+  "category": "小学类",
+  "genre": "蒙学",
+  "description": "国立故宫博物院《元趙雍草書千文》册，作品号故書00016100000，至正二年（1342）",
+  "coverAuthor": "南梁 · 周興嗣",
+  "excerpt": "天地玄黃。宇宙洪荒。日月盈昃。辰宿列張。寒來暑往。秋收冬藏。閏餘成歲。律召調陽。雲騰致雨。露結為霜。金生麗水。玉出昆崗。劍號巨闕。珠稱夜光。果珍李柰。菜重芥薑。海鹹河淡。鱗潛羽翔。龍師火帝。鳥官人皇。",
+  "layout": "classic",
+  "contentVersion": "1.0.1",
+  "workId": "work-qianziwen",
+  "editionId": "edition-qianziwen-01",
+  "edition": "国立故宫博物院《元趙雍草書千文》册，作品号故書00016100000，至正二年（1342）",
+  "collationStatus": "A",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "国立故宫博物院《元趙雍草書千文》册，作品号故書00016100000，至正二年（1342）",
+      "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/400?dep=P"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "国立故宫博物院《元趙雍草書千文》册，作品号故書00016100000，至正二年（1342）。按所录结构转换。",
+      "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/400?dep=P"
+    },
+    {
+      "kind": "annotation",
+      "status": "not-applicable",
+      "detail": "本件未另编夹注。"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "未附现代译文。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "此阅读本提供整理文字；原件见出处。"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "对校本 · 国立故宫博物院《拓本敬勝齋法帖（三十七）》清高宗御临董其昌书千字文",
+      "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/23842?dep=P"
+    }
+  ],
+  "chapterCount": 1,
+  "characters": 1002,
+  "contentSha256": "0f7ffedd285e2f1946d54bdf3c12444a090236d8e419395ef5bc735b2d508a49",
+  "witness": {
+    "edition": "国立故宫博物院《拓本敬勝齋法帖（三十七）》清高宗御临董其昌书千字文",
+    "sha256": "5176e9a2b00fee1251ce0ca5b766c6b30e508867453e41f54fddfcb2e881d386"
+  },
+  "exports": {
+    "contentSha256": "0f7ffedd285e2f1946d54bdf3c12444a090236d8e419395ef5bc735b2d508a49",
+    "licence": "CC BY 4.0",
+    "credit": "元趙雍草書千文　冊　國立故宮博物院，臺北，CC BY 4.0 @ www.npm.gov.tw",
+    "method": "子衿古籍依此册馆藏释文分篇排版，保留原录的字形和缺字记号。",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "txtSha256": "d615a4f8df5b16334615426f7675e39d9075652855315ba2f81fd01aa62ebd38",
+    "epubSha256": "8addd5353633ce33790bb4d5ea9acda4a231032504e424bc45bdd2226e36bc37"
+  },
+  "creditPage": "s/20.html",
+  "creditSha256": "a47ecfd60c59d80618b6a03217c4809414669c9ca2abd47b667484b435d57579"
+}

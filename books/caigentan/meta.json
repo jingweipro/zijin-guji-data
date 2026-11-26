@@ -1,0 +1,77 @@
+{
+  "id": "caigentan",
+  "legacyIndex": 4,
+  "title": "菜根譚",
+  "aliases": [
+    "菜根谭"
+  ],
+  "byline": "明 · 洪應明",
+  "author": "洪应明",
+  "dynasty": "明",
+  "section": "子",
+  "category": "儒家类",
+  "genre": "修身",
+  "description": "維基文庫《菜根譚》明刻本前、後集",
+  "coverAuthor": "明 · 洪應明",
+  "excerpt": "棲守道德者，寂寞一時；依附權勢者，淒涼萬古。故達人觀物外之物，思身後之身，寧受一時之寂寞，毋取萬古之淒涼。涉世淺，點染亦淺；歷事深，機械亦深。故君子與其練達，不",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "edition": "維基文庫《菜根譚》明刻本前、後集",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "維基文庫《菜根譚》明刻本前、後集",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2561729"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库逐页固定修订。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2561729"
+    },
+    {
+      "kind": "annotation",
+      "status": "not-applicable",
+      "detail": "本读本无另附夹注。"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无另附现代译本。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 2,
+  "characters": 12633,
+  "contentSha256": "a77647a2146cebba02333b554fdfcd19554dda890141ad3fc9d9f837c481c6cc",
+  "workId": "work-caigentan",
+  "editionId": "edition-caigentan-ws-01",
+  "collationStatus": "B",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "洪应明，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。本读本收录电子本正文。整理贡献沿用相同方式共享许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/2561729"
+  },
+  "creditPage": "s/05.html",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "洪应明，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。本读本收录电子本正文。整理贡献沿用相同方式共享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "a77647a2146cebba02333b554fdfcd19554dda890141ad3fc9d9f837c481c6cc",
+    "txtSha256": "dccc1efe4dc2c479b5eb2cbf51180153a8a00e7b6668f66aa708c0a84a741405",
+    "epubSha256": "3843f85f6feda48b962985d6747a96c460bda518de983ae0adef594178ef9847"
+  },
+  "creditSha256": "9e049f4d9bfe36d9f68ccf0753aaabf472861285fcbbc11f844839d83558f9a8"
+}

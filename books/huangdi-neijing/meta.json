@@ -1,0 +1,80 @@
+{
+  "id": "huangdi-neijing",
+  "legacyIndex": 2,
+  "title": "黃帝內經",
+  "aliases": [
+    "黄帝内经",
+    "黄帝内经素问",
+    "灵枢经"
+  ],
+  "byline": "先秦至汉 · 佚名",
+  "author": "佚名",
+  "dynasty": "先秦至汉",
+  "section": "子",
+  "category": "医家类",
+  "genre": "医家",
+  "description": "中文维基文库《黃帝內經》素问二十四卷、灵枢十二卷本",
+  "coverAuthor": "先秦至汉 · 佚名",
+  "excerpt": "昔在黃帝，生而神靈，弱而能言，幼而徇齊，長而敦敏，成而登天。乃問於天師曰：「余聞上古之人，春秋皆度百歲，而動作不衰；今時之人，年半百而動作皆衰者，時世異耶？人將",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "edition": "中文维基文库《黃帝內經》素问二十四卷、灵枢十二卷本",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "中文维基文库《黃帝內經》素问二十四卷、灵枢十二卷本",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2083230"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库逐页固定修订。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2083230"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "同一底本所标随文注文或异文。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2083230"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无另附现代译本。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 162,
+  "characters": 154496,
+  "contentSha256": "07fd7777d84ad18698277df2ea068e16b5a1dc676397c15a10c91ed13da99170",
+  "workId": "work-huangdi-neijing",
+  "editionId": "edition-huangdi-neijing-ws-01",
+  "collationStatus": "B",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "佚名，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/2083230"
+  },
+  "creditPage": "s/03.html",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "佚名，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "07fd7777d84ad18698277df2ea068e16b5a1dc676397c15a10c91ed13da99170",
+    "txtSha256": "e6abb6a6488f881b1edc3e79773720cf74cec480c0af57a41c6f0d209d3fe887",
+    "epubSha256": "b646f2076f519334807e8c3743e9cf80a10d5b9b78f5e7b8089fcb40853224cf"
+  },
+  "creditSha256": "1e9a8cd91b9bada4b699c51667c2e09d21131cb6c74b1373445ad3b4c0f60ef3"
+}

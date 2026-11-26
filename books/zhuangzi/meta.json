@@ -1,0 +1,76 @@
+{
+  "id": "zhuangzi",
+  "legacyIndex": null,
+  "title": "莊子",
+  "aliases": [
+    "庄子"
+  ],
+  "byline": "先秦 · 莊周等",
+  "author": "莊周等",
+  "dynasty": "先秦",
+  "section": "子",
+  "category": "道家类",
+  "genre": "诸子",
+  "description": "庄子 · 维基文库内外杂三十三篇",
+  "coverAuthor": "先秦 · 莊周等",
+  "excerpt": "北冥有魚，其名爲鯤。鯤之大，不知其幾千里也，化而爲鳥，其名爲鵬。鵬之背，不知其幾千里也，怒而飛，其翼若垂天之雲。是鳥也，海運，則將徙於南冥。南冥者，天池也。齊諧者，志怪者也。諧之言曰：「鵬之徙於南冥也",
+  "layout": "classic",
+  "contentVersion": "1.0.1",
+  "workId": "work-zhuangzi",
+  "editionId": "edition-zhuangzi-01",
+  "edition": "庄子 · 维基文库内外杂三十三篇",
+  "collationStatus": "B",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "庄子 · 维基文库内外杂三十三篇",
+      "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "庄子 · 维基文库内外杂三十三篇。按所录结构转换。",
+      "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "采用本件标示的注、异读或夹行文字。"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "未附现代译文。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "此阅读本提供整理文字；原件见出处。"
+    },
+    {
+      "kind": "transcription",
+      "status": "not-applicable",
+      "detail": "对校本 · 正统道藏《南华真经》，Kanripo KR5c0051",
+      "url": "https://raw.githubusercontent.com/kanripo/KR5c0051/bb563d4b0cb31fdecfa639e9544c405d59d5c3c8/KR5c0051_000.txt"
+    }
+  ],
+  "chapterCount": 33,
+  "characters": 66858,
+  "contentSha256": "dd1b4563063289143a3f3805de88ae7489d0b69c461525b70e9c6b00187a2b5a",
+  "exports": {
+    "contentSha256": "dd1b4563063289143a3f3805de88ae7489d0b69c461525b70e9c6b00187a2b5a",
+    "licence": "CC BY-SA 4.0",
+    "credit": "莊周等 原著。中文维基文库贡献者录校，各固定页面保留编辑履历。",
+    "method": "子衿古籍依所列版本提取正文和随文注释，并作分章、竖排整理。整理贡献按相同许可共享。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "txtSha256": "99758912c2c81e07f8ae080abbaee3729d521c0900fa944c2f2109763f84f7ba",
+    "epubSha256": "5c6f97fd732655cb4c39cd54daea48472dbd6adeca779f1a6330aad6ec1d932a"
+  },
+  "creditPage": "s/22.html",
+  "creditSha256": "fa4e09d9ca9d70dbc506677a1b4faf524324b89792bb076eabfdd3088c571d46"
+}

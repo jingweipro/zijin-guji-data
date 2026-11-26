@@ -1,0 +1,78 @@
+{
+  "id": "shanhaijing",
+  "legacyIndex": null,
+  "title": "山海經",
+  "aliases": [
+    "山海经"
+  ],
+  "byline": "先秦至汉 · 佚名",
+  "author": "佚名",
+  "dynasty": "先秦至汉",
+  "section": "子",
+  "category": "小说类",
+  "genre": "地理",
+  "description": "十八经与郭璞序。保留卷内标明的原注、异文，略图片、现代校注。",
+  "coverAuthor": "先秦至汉 · 佚名",
+  "excerpt": "世之覽山海經者，皆以其閎誕迂誇，多奇怪俶儻之言，莫不疑焉。嘗試論之曰，莊生有云：「人之所知，莫若其所不知。」吾於山海經見之矣。夫以宇宙之寥廓，群生之紛紜，陰陽之",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "workId": "work-shanhaijing",
+  "editionId": "edition-shanhaijing-ws-01",
+  "edition": "中文维基文库《山海經》固定修订本",
+  "collationStatus": "B",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "中文维基文库《山海經》固定修订本",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/3525818"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库固定页面修订；目录和正文逐卷检核。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/3525818"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "同一录本所标的夹注及异文。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/3525818"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无现代译文。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 19,
+  "characters": 38205,
+  "contentSha256": "a696458c1ce3fac190caa676bfffe4e32c424fdf564de43dd589ca7f86a0abc1",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "佚名，中文维基文库贡献者录校。编辑履历见所列固定修订。",
+    "method": "子衿古籍按原页整理为竖排读本。十八经与郭璞序。保留卷内标明的原注、异文，略图片、现代校注。本整理沿用相同许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/3525818"
+  },
+  "creditPage": "s/28.html",
+  "creditSha256": "6fe53c3b248edef008e26589fc03c54b61244ce59b8e361cf312b47ab430df94",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "佚名，中文维基文库贡献者录校。编辑履历见所列固定修订。",
+    "method": "子衿古籍按原页整理为竖排读本。十八经与郭璞序。保留卷内标明的原注、异文，略图片、现代校注。本整理沿用相同许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "a696458c1ce3fac190caa676bfffe4e32c424fdf564de43dd589ca7f86a0abc1",
+    "txtSha256": "9b3abb4e7f85fd0fa59893f6c77bb2b11cf1e9b0ce9c47ce73057cf5f1f40032",
+    "epubSha256": "93cad81ec7aa022fb8f7466e5879b66f1f8b5bcbf5e5a8de290b1fde5839f7a1"
+  }
+}

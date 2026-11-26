@@ -1,0 +1,78 @@
+{
+  "id": "mudanting",
+  "legacyIndex": 18,
+  "title": "牡丹亭",
+  "aliases": [
+    "牡丹亭还魂记"
+  ],
+  "byline": "明 · 湯顯祖",
+  "author": "汤显祖",
+  "dynasty": "明",
+  "section": "集",
+  "category": "曲类",
+  "genre": "曲类",
+  "description": "維基文庫《牡丹亭》五十五齣（含湯顯祖題詞）",
+  "coverAuthor": "明 · 湯顯祖",
+  "excerpt": "天下女子有情，甯有如杜麗娘者乎！夢其人即病，病即彌連，至手畫形容，傳於世而後死。死三年矣，復能溟莫中求得其所夢者而生。如麗娘者，乃可謂之有情人耳。情不知所起，一",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "edition": "維基文庫《牡丹亭》五十五齣（含湯顯祖題詞）",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "維基文庫《牡丹亭》五十五齣（含湯顯祖題詞）",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12923086"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库逐页固定修订。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12923086"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "同一底本所标随文注文或异文。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12923086"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无另附现代译本。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 56,
+  "characters": 70674,
+  "contentSha256": "8f50892eaf0830d302672f0b7b39d1bf6f43205e968c75ef1afa8205f2c6a436",
+  "workId": "work-mudanting",
+  "editionId": "edition-mudanting-ws-01",
+  "collationStatus": "B",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "汤显祖，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/12923086"
+  },
+  "creditPage": "s/19.html",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "汤显祖，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "8f50892eaf0830d302672f0b7b39d1bf6f43205e968c75ef1afa8205f2c6a436",
+    "txtSha256": "b455ea53331be043be6eb0cc80359f7586d900c402f0f14ccbbddf2931e125d5",
+    "epubSha256": "7223f1c81263170d3a78bdf643354090e01dc26a6e73cea2dd7577cec1ce3786"
+  },
+  "creditSha256": "bf66306c29bd47ea2f2d21ef974d92e734e63e0f78cf0ba1edce3b58c8721e80"
+}

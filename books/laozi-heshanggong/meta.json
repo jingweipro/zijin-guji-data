@@ -1,0 +1,79 @@
+{
+  "id": "laozi-heshanggong",
+  "legacyIndex": 12,
+  "title": "老子河上公注",
+  "aliases": [
+    "道德经",
+    "老子道德经河上公章句"
+  ],
+  "byline": "漢 · 河上公",
+  "author": "旧题河上公注",
+  "dynasty": "旧题汉",
+  "section": "道",
+  "category": "道家类",
+  "genre": "道家",
+  "description": "中文维基文库《老子河上公章句》道经、德经八十一章注本",
+  "coverAuthor": "漢 · 河上公",
+  "excerpt": "道可道，非常道。名可名，非常名。無名，天地之始。有名，萬物之母。故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄，玄之又玄，眾妙之門。",
+  "layout": "heshanggong",
+  "contentVersion": "1.0.0-ws",
+  "edition": "中文维基文库《老子河上公章句》道经、德经八十一章注本",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "中文维基文库《老子河上公章句》道经、德经八十一章注本",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2019760"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库逐页固定修订。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2019760"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "同一底本所标随文注文或异文。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2019760"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无另附现代译本。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 81,
+  "characters": 20641,
+  "contentSha256": "8ab18c7d9c2dd500f857f112271d13c295fe9e99d5a8e2800f4c4c117b04c0c3",
+  "workId": "work-laozi",
+  "editionId": "edition-laozi-heshanggong-ws-01",
+  "collationStatus": "B",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "旧题河上公注，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/2019760"
+  },
+  "creditPage": "s/13.html",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "旧题河上公注，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "8ab18c7d9c2dd500f857f112271d13c295fe9e99d5a8e2800f4c4c117b04c0c3",
+    "txtSha256": "b00b22710bb339b6c99c55e9ddc6b2070e2e6d4fcabdc549f0be362fb2705b88",
+    "epubSha256": "cb7ea36b02b779a5d1e406cefd93ed123981cd8d5485fcc5e4449e3a35122688"
+  },
+  "creditSha256": "5972f1aac602b3b0ba509b625a14bfa919061f47b9b67618d55488c24adbda14"
+}

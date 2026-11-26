@@ -1,0 +1,78 @@
+{
+  "id": "mengxi-bitan",
+  "legacyIndex": 6,
+  "title": "夢溪筆談",
+  "aliases": [
+    "梦溪笔谈"
+  ],
+  "byline": "宋 · 沈括",
+  "author": "沈括",
+  "dynasty": "宋",
+  "section": "子",
+  "category": "杂家类",
+  "genre": "笔记",
+  "description": "中文维基文库《夢溪筆談》二十六卷及序、《補筆談》三卷、《續筆談》",
+  "coverAuthor": "宋 · 沈括",
+  "excerpt": "予退處林下，深居絕過從。思平日與客言者，時紀一事於筆，則若有所晤言，蕭然移日，所與談者，唯筆硯而已，謂之《筆談》。聖謨國政，及事近宮省，皆不敢私紀。至於繫當日士",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "edition": "中文维基文库《夢溪筆談》二十六卷及序、《補筆談》三卷、《續筆談》",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "中文维基文库《夢溪筆談》二十六卷及序、《補筆談》三卷、《續筆談》",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/407068"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库逐页固定修订。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/407068"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "同一底本所标随文注文或异文。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/407068"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无另附现代译本。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 31,
+  "characters": 103478,
+  "contentSha256": "b94558a36420ffed2fb9d9925abde5b8d91b0be0bedcbb96ca08f07770866f6d",
+  "workId": "work-mengxi-bitan",
+  "editionId": "edition-mengxi-bitan-ws-01",
+  "collationStatus": "B",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "沈括，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/407068"
+  },
+  "creditPage": "s/07.html",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "沈括，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "b94558a36420ffed2fb9d9925abde5b8d91b0be0bedcbb96ca08f07770866f6d",
+    "txtSha256": "41643241cf2d2cd1c7ed3fa13af10dde9180bd5898af6055e2656c71f4fb44a7",
+    "epubSha256": "8a455d6cf69da4bd8e1dba0755e38c7e5f91b03446f3dcd3dd5981a2b81a5aa7"
+  },
+  "creditSha256": "7d83dcdbb84161ebebb59f22dbffa900c327d5055362fbafebaff96dc6844cea"
+}

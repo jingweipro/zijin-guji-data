@@ -1,0 +1,77 @@
+{
+  "id": "xiaojing-jing",
+  "legacyIndex": null,
+  "title": "孝經",
+  "aliases": [
+    "孝经"
+  ],
+  "byline": "先秦至汉 · 原文旧题",
+  "author": "原文旧题",
+  "dynasty": "先秦至汉",
+  "section": "经",
+  "category": "孝经类",
+  "genre": "经学",
+  "description": "今文十八章本，依原页分章。",
+  "coverAuthor": "先秦至汉 · 原文旧题",
+  "excerpt": "仲尼居，曾子侍。子曰：「先王有至德要道，以順天下，民用和睦，上下無怨，汝知之乎？」曾子避席，曰：「參不敏，何足以知之？」子曰：「夫孝，德之本也，教之所由生也。復",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "workId": "work-xiaojing",
+  "editionId": "edition-xiaojing-jing-ws-01",
+  "edition": "中文维基文库《今文孝經》固定修订本",
+  "collationStatus": "B",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "中文维基文库《今文孝經》固定修订本",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/1797788"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库固定页面修订；目录和正文逐卷检核。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/1797788"
+    },
+    {
+      "kind": "annotation",
+      "status": "not-applicable",
+      "detail": "无另附注释。"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无现代译文。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 18,
+  "characters": 1905,
+  "contentSha256": "3858dc4c34bca5375379fa4f0e323ba42ce6b77fb2c8688b89f97b4441a60a4b",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "原文旧题，中文维基文库贡献者录校。编辑履历见所列固定修订。",
+    "method": "子衿古籍按原页整理为竖排读本。今文十八章本，依原页分章。本整理沿用相同许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/1797788"
+  },
+  "creditPage": "s/30.html",
+  "creditSha256": "928b76651ff84a23ec154fe8253833c6d9be0672c7c19cbe6df6b40dfedf3305",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "原文旧题，中文维基文库贡献者录校。编辑履历见所列固定修订。",
+    "method": "子衿古籍按原页整理为竖排读本。今文十八章本，依原页分章。本整理沿用相同许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "3858dc4c34bca5375379fa4f0e323ba42ce6b77fb2c8688b89f97b4441a60a4b",
+    "txtSha256": "6ba2ec9fbf12f23a24591d28ded7c0b5807d24c47636d3d7f1b49aded01528c2",
+    "epubSha256": "45edb3e78a3b68877ce69ab974be46dc6dc7c58a4c7083592c3713256fb9d662"
+  }
+}

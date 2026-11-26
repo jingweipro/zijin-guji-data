@@ -1,0 +1,76 @@
+{
+  "id": "shenglv-qimeng",
+  "legacyIndex": null,
+  "title": "聲律啓蒙",
+  "aliases": [
+    "声律启蒙"
+  ],
+  "byline": "清 · 車萬育",
+  "author": "車萬育",
+  "dynasty": "清",
+  "section": "经",
+  "category": "小学类",
+  "genre": "蒙学",
+  "description": "声律启蒙 · 维基文库上下卷",
+  "coverAuthor": "清 · 車萬育",
+  "excerpt": "雲對雨，雪對風，晚照對晴空。來鴻對去燕，宿鳥對鳴蟲。三尺劍，六鈞弓，嶺北對江東。人間清暑殿，天上廣寒宮。兩岸曉煙楊柳綠，一園春雨杏花紅。兩鬢風霜途次早行之客；一蓑煙雨溪邊晚釣之翁。沿對革，異對同，白叟",
+  "layout": "classic",
+  "contentVersion": "1.0.1",
+  "workId": "work-shenglv-qimeng",
+  "editionId": "edition-shenglv-qimeng-01",
+  "edition": "声律启蒙 · 维基文库上下卷",
+  "collationStatus": "B",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "声律启蒙 · 维基文库上下卷",
+      "url": "https://zh.wikisource.org/wiki/%E8%81%B2%E5%BE%8B%E5%95%93%E8%92%99"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "声律启蒙 · 维基文库上下卷。按所录结构转换。",
+      "url": "https://zh.wikisource.org/wiki/%E8%81%B2%E5%BE%8B%E5%95%93%E8%92%99"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "采用本件标示的注、异读或夹行文字。"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "未附现代译文。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "此阅读本提供整理文字；原件见出处。"
+    },
+    {
+      "kind": "transcription",
+      "status": "not-applicable",
+      "detail": "对校本 · chinese-poetry 蒙学录本，上下卷",
+      "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%92%99%E5%AD%A6/shenglvqimeng.json"
+    }
+  ],
+  "chapterCount": 30,
+  "characters": 7022,
+  "contentSha256": "e4f5d76a988ae22f40f0afc4329649360f26fd67e4853df9207cd8d81ae51ccc",
+  "exports": {
+    "contentSha256": "e4f5d76a988ae22f40f0afc4329649360f26fd67e4853df9207cd8d81ae51ccc",
+    "licence": "CC BY-SA 4.0",
+    "credit": "車萬育 原著。中文维基文库贡献者录校，各固定页面保留编辑履历。",
+    "method": "子衿古籍依所列版本提取正文和随文注释，并作分章、竖排整理。整理贡献按相同许可共享。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "txtSha256": "36ff8e90c765af6370efbb6d2af03235ae06fa080c7fba48e270cde8a4380dcd",
+    "epubSha256": "4e52b28cbb5566f39127e54f2044f2e05a2ba3b8dd66caa98198d5e7cbf18f58"
+  },
+  "creditPage": "s/21.html",
+  "creditSha256": "e6d1fcdb692499198d64c6ac90c204eb333a4217046249bbfcb737457489d7d9"
+}

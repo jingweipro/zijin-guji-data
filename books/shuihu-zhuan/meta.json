@@ -1,0 +1,78 @@
+{
+  "id": "shuihu-zhuan",
+  "legacyIndex": 13,
+  "title": "水滸傳",
+  "aliases": [
+    "水浒传"
+  ],
+  "byline": "明 · 施耐庵",
+  "author": "旧题施耐庵",
+  "dynasty": "明",
+  "section": "子",
+  "category": "小说类",
+  "genre": "小说类",
+  "description": "維基文庫《忠義水滸全傳》一百二十回本（含序及引首）",
+  "coverAuthor": "明 · 施耐庵",
+  "excerpt": "讀《忠義水滸全傳》序太史公曰：「《說難》、《孤憤》，聖賢發憤之所作也。」由此觀之，古之聖賢，不憤則不作矣。不憤而作，譬如不寒而顫，不病而呻吟也，可恥孰甚焉？雖作",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "edition": "維基文庫《忠義水滸全傳》一百二十回本（含序及引首）",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "維基文庫《忠義水滸全傳》一百二十回本（含序及引首）",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2593267"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库逐页固定修订。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2593267"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "同一底本所标随文注文或异文。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2593267"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无另附现代译本。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 122,
+  "characters": 752266,
+  "contentSha256": "db724bdd8c8341b87c5be166584edd37333c2cabe6824748f6476c09831b5355",
+  "workId": "work-shuihu-zhuan",
+  "editionId": "edition-shuihu-zhuan-ws-01",
+  "collationStatus": "B",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "旧题施耐庵，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/2593267"
+  },
+  "creditPage": "s/14.html",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "旧题施耐庵，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "db724bdd8c8341b87c5be166584edd37333c2cabe6824748f6476c09831b5355",
+    "txtSha256": "4a017e936cda80c82d24e9cd00f115952bf65b5e6b63ab72141c0eb4b6174f72",
+    "epubSha256": "e335fbb482499738fe2425e5fbc11c1575c4c5469bd6be7f999f9ff501924caf"
+  },
+  "creditSha256": "2474c3b90410e65de461b88f2da96c1804332ca2f6a25884c0ba4dd78e4ac749"
+}

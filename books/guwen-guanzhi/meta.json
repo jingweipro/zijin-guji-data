@@ -1,0 +1,78 @@
+{
+  "id": "guwen-guanzhi",
+  "legacyIndex": null,
+  "title": "古文觀止",
+  "aliases": [
+    "古文观止"
+  ],
+  "byline": "清 · 吳楚材、吳調侯",
+  "author": "吳楚材、吳調侯",
+  "dynasty": "清",
+  "section": "集",
+  "category": "总集类",
+  "genre": "文章",
+  "description": "两序、例言及十二卷二百二十二篇。保留原文及随文小注。",
+  "coverAuthor": "清 · 吳楚材、吳調侯",
+  "excerpt": "余束髮就學時，輒喜讀古人書傳，每縱觀大意，於源流得失之故，亦嘗探其要領。若乃析義理於精微之蘊，辯字句於毫髮之間，此衷蓋闕如也。歲戊午，奉天子命撫八閩，會稽章子、",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "workId": "work-guwen-guanzhi",
+  "editionId": "edition-guwen-guanzhi-ws-01",
+  "edition": "中文维基文库《古文觀止》固定修订本",
+  "collationStatus": "B",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "中文维基文库《古文觀止》固定修订本",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2620091"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库固定页面修订；目录和正文逐卷检核。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2620091"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "同一录本所标的夹注及异文。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2620091"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无现代译文。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 225,
+  "characters": 222396,
+  "contentSha256": "aaa0ce0a72332aa9070fd004159fc98608afbfd189c2e032fbfc8b16350c5e00",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "吳楚材、吳調侯，中文维基文库贡献者录校。编辑履历见所列固定修订。",
+    "method": "子衿古籍按原页整理为竖排读本。两序、例言及十二卷二百二十二篇。保留原文及随文小注。本整理沿用相同许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/2620091"
+  },
+  "creditPage": "s/29.html",
+  "creditSha256": "2d795a7286b215c23eec3604c0806161f338de8ef097cd235e6138f52d1e5623",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "吳楚材、吳調侯，中文维基文库贡献者录校。编辑履历见所列固定修订。",
+    "method": "子衿古籍按原页整理为竖排读本。两序、例言及十二卷二百二十二篇。保留原文及随文小注。本整理沿用相同许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "aaa0ce0a72332aa9070fd004159fc98608afbfd189c2e032fbfc8b16350c5e00",
+    "txtSha256": "772f84f94bd9df8f42e29be922c8bcd354d7ebcae82697741754059e1029a013",
+    "epubSha256": "daa79409c14c8c4ec3d546652b0522cb0d65b6d83485d3563be4b77a985442ec"
+  }
+}

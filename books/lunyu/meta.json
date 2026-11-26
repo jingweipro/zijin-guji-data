@@ -1,0 +1,78 @@
+{
+  "id": "lunyu",
+  "legacyIndex": 3,
+  "title": "論語",
+  "aliases": [
+    "论语"
+  ],
+  "byline": "孔子及其弟子",
+  "author": "孔子弟子及再传弟子编纂",
+  "dynasty": "先秦",
+  "section": "经",
+  "category": "四书类",
+  "genre": "儒家",
+  "description": "維基文庫《論語》二十篇經文",
+  "coverAuthor": "孔子及其弟子",
+  "excerpt": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」有子曰：「其爲人也孝弟，而好犯上者，鮮矣；不好犯上，而好作亂者，未之有也。君子",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "edition": "維基文庫《論語》二十篇經文",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "維基文庫《論語》二十篇經文",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12807585"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库逐页固定修订。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12807585"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "同一底本所标随文注文或异文。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12807585"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无另附现代译本。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 20,
+  "characters": 16259,
+  "contentSha256": "fd8489dd16cfc9a608299784a662bc24f809bc0b22cc971826ad79a76165cf09",
+  "workId": "work-lunyu",
+  "editionId": "edition-lunyu-ws-01",
+  "collationStatus": "B",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "孔子弟子及再传弟子编纂，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/12807585"
+  },
+  "creditPage": "s/04.html",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "孔子弟子及再传弟子编纂，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "fd8489dd16cfc9a608299784a662bc24f809bc0b22cc971826ad79a76165cf09",
+    "txtSha256": "80a2e526a5d6b172a84e13ad3c752d74cfbb682081941d0c7fdd7ad2d69c914e",
+    "epubSha256": "e6af20d29cd9913ef2f36797af82d101d8560a0934078b10ceb83401a6f5ad6f"
+  },
+  "creditSha256": "4c88db65225628f3b4606b7b4059f07219620cffeb48b10c19a636413e89a1c9"
+}

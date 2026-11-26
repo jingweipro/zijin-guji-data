@@ -1,0 +1,70 @@
+{
+  "id": "shijing",
+  "legacyIndex": null,
+  "title": "詩經",
+  "aliases": [
+    "诗经"
+  ],
+  "byline": "先秦 · 佚名",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "section": "经",
+  "category": "诗类",
+  "genre": "诗歌",
+  "description": "chinese-poetry《诗经》简体电子本",
+  "coverAuthor": "先秦 · 佚名",
+  "excerpt": "关关雎鸠，在河之洲。窈窕淑女，君子好逑。参差荇菜，左右流之。窈窕淑女，寤寐求之。求之不得，寤寐思服。悠哉悠哉，辗转反侧。参差荇菜，左右采之。窈窕淑女，琴瑟友之。参差荇菜，左右芼之。窈窕淑女，钟鼓乐之。",
+  "layout": "classic",
+  "contentVersion": "1.0.0",
+  "workId": "work-shijing",
+  "editionId": "edition-shijing-01",
+  "edition": "chinese-poetry《诗经》简体电子本",
+  "collationStatus": "B",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "chinese-poetry《诗经》简体电子本",
+      "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "chinese-poetry《诗经》简体电子本。按所录结构转换。",
+      "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json"
+    },
+    {
+      "kind": "annotation",
+      "status": "not-applicable",
+      "detail": "本件未另编夹注。"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "未附现代译文。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "此阅读本提供整理文字；原件见出处。"
+    }
+  ],
+  "chapterCount": 305,
+  "characters": 30346,
+  "contentSha256": "503a834f912766439a92de6f4d1069bc1d7c9a07e0c39b2b5a477e247d27892b",
+  "exports": {
+    "contentSha256": "503a834f912766439a92de6f4d1069bc1d7c9a07e0c39b2b5a477e247d27892b",
+    "licence": "MIT",
+    "credit": "chinese-poetry 数据库，Copyright (c) 2016 JackeyGao。",
+    "method": "子衿古籍依据该项目的诗经 JSON 按原先次序编排为竖排读本。",
+    "licenceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/LICENSE",
+    "txtSha256": "aa71d936ad6f17de06a7dce33d2c9a9a979c87cc44556e3d71e3723db66315a2",
+    "epubSha256": "9edcfd7afa5e3acac30d5bf250800f5ad37159fda4b006e4dc917f0bd104863f"
+  },
+  "creditPage": "s/26.html",
+  "creditSha256": "02e01b0a52f51abd0bdbf0788c761c18a7d39be2c9d36db265c2ad531b5ce09c"
+}

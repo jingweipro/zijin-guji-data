@@ -1,0 +1,78 @@
+{
+  "id": "taiyi-jinhua-zongzhi",
+  "legacyIndex": 0,
+  "title": "太乙金華宗旨",
+  "aliases": [
+    "太乙金华宗旨"
+  ],
+  "byline": "傳 · 呂祖",
+  "author": "传吕祖",
+  "dynasty": "旧题，时代待考",
+  "section": "道",
+  "category": "内丹类",
+  "genre": "道家",
+  "description": "維基文庫《太乙金華宗旨》十三章本",
+  "coverAuthor": "傳 · 呂祖",
+  "excerpt": "自然曰道，道無名相，一性而已，一元神而已。性命不可見，寄之天光，天光不可見，寄之兩目。古來仙真，口口相傳，傳一得一。自太上見化，東華遞傳某，以及南北兩宗，全真可",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "edition": "維基文庫《太乙金華宗旨》十三章本",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "維基文庫《太乙金華宗旨》十三章本",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/7367527"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库逐页固定修订。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/7367527"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "同一底本所标随文注文或异文。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/7367527"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无另附现代译本。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 13,
+  "characters": 8523,
+  "contentSha256": "173495adee4fe2c6a16ba93b8725fb88e1f19e86c37ca3b176820544d75e7536",
+  "workId": "work-taiyi-jinhua-zongzhi",
+  "editionId": "edition-taiyi-jinhua-zongzhi-ws-01",
+  "collationStatus": "B",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "传吕祖，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/7367527"
+  },
+  "creditPage": "s/01.html",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "传吕祖，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "173495adee4fe2c6a16ba93b8725fb88e1f19e86c37ca3b176820544d75e7536",
+    "txtSha256": "ea52ceb1bfe1b76189a68437ed56650fead8e9229a443779e67b2fb73020084a",
+    "epubSha256": "bca37a60068405786ce57d118dc0c71495a1167c601407e8c47fa7dfaca633b8"
+  },
+  "creditSha256": "e8594781715b2e108c58a4d376c122baa5e92b770a484654b8fffe4de3690c7e"
+}

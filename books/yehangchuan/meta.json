@@ -1,0 +1,74 @@
+{
+  "id": "yehangchuan",
+  "legacyIndex": null,
+  "title": "夜航船",
+  "aliases": [],
+  "byline": "明末清初 · 張岱",
+  "author": "張岱",
+  "dynasty": "明末清初",
+  "section": "子",
+  "category": "杂家类",
+  "genre": "类书",
+  "description": "维基文库 CADAL 影页转录 · 张岱《夜航船》序及二十卷",
+  "coverAuthor": "明末清初 · 張岱",
+  "excerpt": "天下學問，惟夜航船中最難對付。蓋村夫俗子，其學問皆預先備辦，如瀛州十八學士，雲臺二十八將之類，稍差其姓名，輒掩口笑之。彼蓋不知十八學士、二十八將，雖失記其姓名，實無害於學問文理，而反謂錯落一人，則可恥",
+  "layout": "classic",
+  "contentVersion": "1.0.1",
+  "workId": "work-yehangchuan",
+  "editionId": "edition-yehangchuan-01",
+  "edition": "维基文库 CADAL 影页转录 · 张岱《夜航船》序及二十卷",
+  "collationStatus": "B",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "维基文库 CADAL 影页转录 · 张岱《夜航船》序及二十卷",
+      "url": "https://zh.wikisource.org/wiki/%E5%A4%9C%E8%88%AA%E8%88%B9"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "维基文库 CADAL 影页转录 · 张岱《夜航船》序及二十卷。按所录结构转换。",
+      "url": "https://zh.wikisource.org/wiki/%E5%A4%9C%E8%88%AA%E8%88%B9"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "采用本件标示的注、异读或夹行文字。"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "未附现代译文。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "此阅读本提供整理文字；原件见出处。"
+    },
+    {
+      "kind": "transcription",
+      "status": "not-applicable",
+      "detail": "对校本 · 殆知阁电子本 · 子藏/类书/夜航船.txt",
+      "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%AD%90%E8%97%8F/%E7%B1%BB%E4%B9%A6/%E5%A4%9C%E8%88%AA%E8%88%B9.txt"
+    }
+  ],
+  "chapterCount": 21,
+  "characters": 220261,
+  "contentSha256": "520f36639b7a060f73b05459225f3724939e0c6295eff4713b2564fdd28b2fca",
+  "exports": {
+    "contentSha256": "520f36639b7a060f73b05459225f3724939e0c6295eff4713b2564fdd28b2fca",
+    "licence": "CC BY-SA 4.0",
+    "credit": "張岱 原著。中文维基文库贡献者录校，各固定页面保留编辑履历。",
+    "method": "子衿古籍依所列版本提取正文和随文注释，并作分章、竖排整理。整理贡献按相同许可共享。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "txtSha256": "27836ce16cc9ca08faf2f732699d370f63fc85536c1b767fe6031b311f0fc632",
+    "epubSha256": "d1611b105e48a50373aac2f97236d73b47350ddb4c3f14b317741d443d403b4d"
+  },
+  "creditPage": "s/23.html",
+  "creditSha256": "07f2e9bcbdfefd4e8c17912b1bb9098ce293a14f96dd3f39e2d792e76c8d9730"
+}

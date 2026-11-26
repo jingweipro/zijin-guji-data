@@ -1,0 +1,76 @@
+{
+  "id": "zhongyong",
+  "legacyIndex": 10,
+  "title": "中庸",
+  "aliases": [],
+  "byline": "《禮記》篇",
+  "author": "《礼记》篇，作者待考",
+  "dynasty": "先秦至汉",
+  "section": "经",
+  "category": "四书类",
+  "genre": "儒家",
+  "description": "維基文庫《禮記·中庸》篇",
+  "coverAuthor": "《禮記》篇",
+  "excerpt": "天命之謂性，率性之謂道，修道之謂教。道也者，不可須臾離也，可離非道也。是故君子戒慎乎其所不睹，恐懼乎其所不聞。莫見乎隱，莫顯乎微，故君子慎其獨也。喜怒哀樂之未發",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "edition": "維基文庫《禮記·中庸》篇",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "維基文庫《禮記·中庸》篇",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12758529"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库逐页固定修订。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12758529"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "同一底本所标随文注文或异文。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12758529"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无另附现代译本。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 1,
+  "characters": 3596,
+  "contentSha256": "63a6ebbcc8e98e16fb721eb9e0dfe29737583e0abe6d0893ea836f99774d1b44",
+  "workId": "work-zhongyong",
+  "editionId": "edition-zhongyong-ws-01",
+  "collationStatus": "B",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "《礼记》篇，作者待考，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/12758529"
+  },
+  "creditPage": "s/11.html",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "《礼记》篇，作者待考，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "63a6ebbcc8e98e16fb721eb9e0dfe29737583e0abe6d0893ea836f99774d1b44",
+    "txtSha256": "07cbfb5306650fb0646adf07dd4eb5bdff9a37ff93972e7f64d1929347716d16",
+    "epubSha256": "0d995faa8c33081bd45a59faeb16d0c3cb0cf6d064b5adad2c6778b94a0b8625"
+  },
+  "creditSha256": "94374e60e7178a58d7ce30672f5beb87dd60b4f71a0f8366118f47af97c6eae7"
+}

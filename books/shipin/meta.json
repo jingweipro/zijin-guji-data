@@ -1,0 +1,77 @@
+{
+  "id": "shipin",
+  "legacyIndex": 8,
+  "title": "詩品",
+  "aliases": [
+    "诗品"
+  ],
+  "byline": "梁 · 鍾嶸",
+  "author": "钟嵘",
+  "dynasty": "南朝梁",
+  "section": "集",
+  "category": "诗文评类",
+  "genre": "文学",
+  "description": "維基文庫《詩品》序及上中下三卷",
+  "coverAuthor": "梁 · 鍾嶸",
+  "excerpt": "氣之動物，物之感人，故搖盪性情，行諸舞詠。照燭三才，暉麗萬有，靈祇待之以致饗，幽微藉之以昭告，動天地，感鬼神，莫近於詩。昔《南風》之詞，《卿雲》之頌，厥義夐矣。",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "edition": "維基文庫《詩品》序及上中下三卷",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "維基文庫《詩品》序及上中下三卷",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/9684735"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库逐页固定修订。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/9684735"
+    },
+    {
+      "kind": "annotation",
+      "status": "not-applicable",
+      "detail": "本读本无另附夹注。"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无另附现代译本。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 4,
+  "characters": 5763,
+  "contentSha256": "cbbe1b03d1e2cb19a10a399813eb7afc06b3c4c9899c5f9bd986807c78ca351a",
+  "workId": "work-shipin",
+  "editionId": "edition-shipin-ws-01",
+  "collationStatus": "B",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "钟嵘，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。本读本收录电子本正文。原件的缺字标记「□」照录，待独立对勘。整理贡献沿用相同方式共享许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/9684735"
+  },
+  "creditPage": "s/09.html",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "钟嵘，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。本读本收录电子本正文。原件的缺字标记「□」照录，待独立对勘。整理贡献沿用相同方式共享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "cbbe1b03d1e2cb19a10a399813eb7afc06b3c4c9899c5f9bd986807c78ca351a",
+    "txtSha256": "d2175bfc2cb28569714d1c1788f75cae0eb1ae849b764d8964054f5fcab96ba4",
+    "epubSha256": "282ba42199142169269cba2cfb077c02cd2eb70ad7f38bc0cb22c9e0e0d4086c"
+  },
+  "creditSha256": "253db00f6e0ed7b9cd713f9f4dde4ed879052b6214f173cd8207db89363f1c5c"
+}

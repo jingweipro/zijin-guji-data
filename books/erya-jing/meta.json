@@ -1,0 +1,78 @@
+{
+  "id": "erya-jing",
+  "legacyIndex": null,
+  "title": "爾雅",
+  "aliases": [
+    "尔雅"
+  ],
+  "byline": "先秦至汉 · 佚名",
+  "author": "佚名",
+  "dynasty": "先秦至汉",
+  "section": "经",
+  "category": "小学类",
+  "genre": "训诂",
+  "description": "十九篇，依原页分章分条。",
+  "coverAuthor": "先秦至汉 · 佚名",
+  "excerpt": "初、哉、首、基、肇、祖、元、胎、俶、落、權輿，始也。林、烝、天、帝、皇、王、后、辟、公、侯，君也。弘、廓、宏、溥、介、純、夏、幠、厖、墳、嘏、丕、弈、洪、誕、戎",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "workId": "work-erya",
+  "editionId": "edition-erya-jing-ws-01",
+  "edition": "中文维基文库《爾雅》固定修订本",
+  "collationStatus": "B",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "中文维基文库《爾雅》固定修订本",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/9736004"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库固定页面修订；目录和正文逐卷检核。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/9736004"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "同一录本所标的夹注及异文。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/9736004"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无现代译文。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 19,
+  "characters": 10423,
+  "contentSha256": "86a21c534f2acd1a5870b3a5d26a197ec1f0ac42e43f371f96829cf1ec47f24c",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "佚名，中文维基文库贡献者录校。编辑履历见所列固定修订。",
+    "method": "子衿古籍按原页整理为竖排读本。十九篇，依原页分章分条。本整理沿用相同许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/9736004"
+  },
+  "creditPage": "s/31.html",
+  "creditSha256": "88d832311c3f5d34da9e3b658eaa72266d93c9231249707c8975e6d9cd8f8ac7",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "佚名，中文维基文库贡献者录校。编辑履历见所列固定修订。",
+    "method": "子衿古籍按原页整理为竖排读本。十九篇，依原页分章分条。本整理沿用相同许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "86a21c534f2acd1a5870b3a5d26a197ec1f0ac42e43f371f96829cf1ec47f24c",
+    "txtSha256": "97c2fa00c57f86f91cd5072b1c8a024ca281e398154e2c17061bb454463d44bc",
+    "epubSha256": "d32382d00ee72dddd3a7ef398789dc791aee87d692af15afabad5e3cb5b6d9bf"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "mengzi",
+  "legacyIndex": 11,
+  "title": "孟子",
+  "aliases": [],
+  "byline": "先秦 · 孟子",
+  "author": "孟子及其门人",
+  "dynasty": "战国",
+  "section": "经",
+  "category": "四书类",
+  "genre": "儒家",
+  "description": "維基文庫《孟子》七篇上下",
+  "coverAuthor": "先秦 · 孟子",
+  "excerpt": "孟子見梁惠王。王曰：「叟！不遠千里而來，亦將有以利吾國乎？」孟子對曰：「王！何必曰利？亦有仁義而已矣。王曰：『何以利吾國？』大夫曰：『何以利吾家？』士庶人曰：『",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "edition": "維基文庫《孟子》七篇上下",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "維基文庫《孟子》七篇上下",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2642991"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库逐页固定修订。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2642991"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "同一底本所标随文注文或异文。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2642991"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无另附现代译本。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 14,
+  "characters": 35440,
+  "contentSha256": "d4fd73b23e40e170d4b4c8d6abe7e48c6b979fa9a5b8da1462fc15fe8cba03d6",
+  "workId": "work-mengzi",
+  "editionId": "edition-mengzi-ws-01",
+  "collationStatus": "B",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "孟子及其门人，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/2642991"
+  },
+  "creditPage": "s/12.html",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "孟子及其门人，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "d4fd73b23e40e170d4b4c8d6abe7e48c6b979fa9a5b8da1462fc15fe8cba03d6",
+    "txtSha256": "f1b1913be13b9b944268aeeda52d111e7fe7226d708a7cfb292cbf1c1a23d192",
+    "epubSha256": "ac5bddd1eb85716ea3aefe3d6afb4dc350af30ba8c4114f3a36fbed85496b07f"
+  },
+  "creditSha256": "525213823ae7147568aabcf7963a7515d2073a7691b0ab11de618bf95a6a0847"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "guoyu",
+  "legacyIndex": 16,
+  "title": "國語",
+  "aliases": [
+    "国语"
+  ],
+  "byline": "先秦 · 佚名",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "section": "史",
+  "category": "杂史类",
+  "genre": "杂史类",
+  "description": "中文维基文库《國語》二十一卷，韦昭注、随文校记本",
+  "coverAuthor": "先秦 · 佚名",
+  "excerpt": "穆王將征犬戎，祭公謀父諫曰：「不可。先王耀德不觀兵。夫兵戢而時動，動則威，觀則玩，玩則無震。是故周文公之《頌》曰：『載戢干戈，載櫜弓矢。我求懿德，肆于時夏，允王",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "edition": "中文维基文库《國語》二十一卷，韦昭注、随文校记本",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "中文维基文库《國語》二十一卷，韦昭注、随文校记本",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/1999131"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库逐页固定修订。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/1999131"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "同一底本所标随文注文或异文。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/1999131"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无另附现代译本。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 243,
+  "characters": 160535,
+  "contentSha256": "bc12ce0b678dc2e01979b3d41f564b418d72b1d129a2663c07455bcb9ea38bb9",
+  "workId": "work-guoyu",
+  "editionId": "edition-guoyu-ws-01",
+  "collationStatus": "B",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "佚名，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/1999131"
+  },
+  "creditPage": "s/17.html",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "佚名，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "bc12ce0b678dc2e01979b3d41f564b418d72b1d129a2663c07455bcb9ea38bb9",
+    "txtSha256": "dafce32dc4dce5958090cac64fb3f74416194edb3796b25cf0cb75a34aeb7df5",
+    "epubSha256": "f67dbf81e984c0cd0ea24ab2fd11a2871056979639e7773f4573fb76fb1def53"
+  },
+  "creditSha256": "9db45da2c19bcf1f87b27fcecd545e88c93c06a22cf5201ce4004c2a702dfe98"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "chenshu",
+  "legacyIndex": 17,
+  "title": "陳書",
+  "aliases": [
+    "陈书"
+  ],
+  "byline": "唐 · 姚思廉",
+  "author": "姚思廉",
+  "dynasty": "唐",
+  "section": "史",
+  "category": "正史类",
+  "genre": "正史类",
+  "description": "維基文庫《欽定四庫全書》本，三十六卷（含卷首及原書考證）",
+  "coverAuthor": "唐 · 姚思廉",
+  "excerpt": "欽定四庫全書陳書序陳書六本紀三十列𫝊凡三十六篇唐散騎常侍姚思廉撰始思廉父察梁陳之史官也錄二代之事未就而陳亡隋文帝見察甚重之每就察訪梁陳故事察因以所論載每一篇成輙",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "edition": "維基文庫《欽定四庫全書》本，三十六卷（含卷首及原書考證）",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "維基文庫《欽定四庫全書》本，三十六卷（含卷首及原書考證）",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/750772"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库逐页固定修订。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/750772"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "同一底本所标随文注文或异文。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/750772"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无另附现代译本。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 37,
+  "characters": 169404,
+  "contentSha256": "ccfaf1e7834ebd32f511a0c815644b8af7972a743818e2f2eca3197a15a5c7d3",
+  "workId": "work-chenshu",
+  "editionId": "edition-chenshu-ws-01",
+  "collationStatus": "B",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "姚思廉，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。四库字表中仅有构形描述的字按原位保留描述，待影印校核。整理贡献沿用相同方式共享许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/750772"
+  },
+  "creditPage": "s/18.html",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "姚思廉，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。四库字表中仅有构形描述的字按原位保留描述，待影印校核。整理贡献沿用相同方式共享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "ccfaf1e7834ebd32f511a0c815644b8af7972a743818e2f2eca3197a15a5c7d3",
+    "txtSha256": "8b217c15c1a8febc5185a74256cbede6b45c5edf023da5d1a45390afce0e564e",
+    "epubSha256": "5738ebfc3f71b32f7d37ffbdddf391a451044a4698983bd05d3f76a2778de405"
+  },
+  "creditSha256": "4715238a8a223f431cd26da84d8a397d19a43ffeacd4851193e4acebba7bd5e6"
+}

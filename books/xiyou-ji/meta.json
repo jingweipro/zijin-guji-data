@@ -1,0 +1,78 @@
+{
+  "id": "xiyou-ji",
+  "legacyIndex": 15,
+  "title": "西遊記",
+  "aliases": [
+    "西游记"
+  ],
+  "byline": "明 · 吳承恩",
+  "author": "旧题吴承恩",
+  "dynasty": "明",
+  "section": "子",
+  "category": "小说类",
+  "genre": "小说类",
+  "description": "維基文庫百回本（第九回收陳光蕊故事）",
+  "coverAuthor": "明 · 吳承恩",
+  "excerpt": "詩曰：混沌未分天地亂，茫茫渺渺無人見。自從盤古破鴻濛，開闢從茲清濁辨。覆載群生仰至仁，發明萬物皆成善。欲知造化會元功，須看《西遊釋厄傳》。蓋聞天地之數，有十二萬",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "edition": "維基文庫百回本（第九回收陳光蕊故事）",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "維基文庫百回本（第九回收陳光蕊故事）",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/7905272"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库逐页固定修订。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/7905272"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "同一底本所标随文注文或异文。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/7905272"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无另附现代译本。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 100,
+  "characters": 589432,
+  "contentSha256": "0768c931ccefb87fb1fa6c843061ec18a8e9075ac23ad218447f6c2abea15289",
+  "workId": "work-xiyou-ji",
+  "editionId": "edition-xiyou-ji-ws-01",
+  "collationStatus": "B",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "旧题吴承恩，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/7905272"
+  },
+  "creditPage": "s/16.html",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "旧题吴承恩，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "0768c931ccefb87fb1fa6c843061ec18a8e9075ac23ad218447f6c2abea15289",
+    "txtSha256": "aa4fa59509369125e89808a720dd6635b90e63d4ed56aa6fc3e38f94a1a52b05",
+    "epubSha256": "12c514587038f60bae839c5bec74fc5d386e91e675a3b7ceaa70f26f0e1ce54c"
+  },
+  "creditSha256": "3f7b388e18987c7af52c7f67af2b77bcb317b13f0455eecdc810908f5c1250ba"
+}

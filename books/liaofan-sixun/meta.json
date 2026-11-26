@@ -1,0 +1,78 @@
+{
+  "id": "liaofan-sixun",
+  "legacyIndex": 1,
+  "title": "了凡四訓",
+  "aliases": [
+    "了凡四训",
+    "袁了凡家训"
+  ],
+  "byline": "明 · 袁了凡",
+  "author": "袁黄",
+  "dynasty": "明",
+  "section": "子",
+  "category": "儒家类",
+  "genre": "修身",
+  "description": "維基文庫《了凡四訓》四篇本",
+  "coverAuthor": "明 · 袁了凡",
+  "excerpt": "余童年喪父，老母命棄舉業學醫，謂可以養生，可以濟人；且習一藝以成名，爾父夙心也。後余在慈雲寺，遇一老者，修髯偉貌，飄飄若仙，余敬禮之。語余曰：「子仕路中人也。明",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "edition": "維基文庫《了凡四訓》四篇本",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "維基文庫《了凡四訓》四篇本",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2545067"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库逐页固定修订。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2545067"
+    },
+    {
+      "kind": "annotation",
+      "status": "not-applicable",
+      "detail": "本读本无另附夹注。"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无另附现代译本。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 4,
+  "characters": 9539,
+  "contentSha256": "b7d08b9b25f8ffd2e13e253cd6e1bbc2253ae0cf97279c572637bc6d24fe2142",
+  "workId": "work-liaofan-sixun",
+  "editionId": "edition-liaofan-sixun-ws-01",
+  "collationStatus": "B",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "袁黄，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。本读本收录电子本正文。整理贡献沿用相同方式共享许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/2545067"
+  },
+  "creditPage": "s/02.html",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "袁黄，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。本读本收录电子本正文。整理贡献沿用相同方式共享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "b7d08b9b25f8ffd2e13e253cd6e1bbc2253ae0cf97279c572637bc6d24fe2142",
+    "txtSha256": "fefde6231690622ada3c31e2245f24f666c2d2f7df34eb6b6d4c6d293001c525",
+    "epubSha256": "a8419216e14793ffb77479472342f17198fed44d299c4e550ed411abfedbcf96"
+  },
+  "creditSha256": "9bdc801308a8d26d423af8a90e04fbf9e34e07aa436b8c78f241017f187ed86d"
+}

@@ -1,0 +1,2069 @@
+{
+  "status": "PUBLIC_RELEASE",
+  "sourceCommit": "87c4ffbdd3ed9d91774eea34d1bcdcf0cd3db9aa",
+  "books": [
+    {
+      "id": "taiyi-jinhua-zongzhi",
+      "title": "太乙金華宗旨",
+      "edition": "維基文庫《太乙金華宗旨》十三章本",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "传吕祖，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "維基文庫《太乙金華宗旨》十三章本",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/7367527"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/7367527"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "同一底本所标随文注文或异文。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/7367527"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/taiyi-jinhua-zongzhi/content.json",
+          "sha256": "173495adee4fe2c6a16ba93b8725fb88e1f19e86c37ca3b176820544d75e7536",
+          "bytes": 34170
+        },
+        {
+          "path": "books/taiyi-jinhua-zongzhi/edition.epub",
+          "sha256": "bca37a60068405786ce57d118dc0c71495a1167c601407e8c47fa7dfaca633b8",
+          "bytes": 25621
+        },
+        {
+          "path": "books/taiyi-jinhua-zongzhi/edition.txt",
+          "sha256": "ea52ceb1bfe1b76189a68437ed56650fead8e9229a443779e67b2fb73020084a",
+          "bytes": 32158
+        },
+        {
+          "path": "books/taiyi-jinhua-zongzhi/meta.json",
+          "sha256": "41f3ad586dfb2a5c4b860e484b6b2d29ff97ff051cf11ae69d07219939c418b9",
+          "bytes": 3191
+        },
+        {
+          "path": "s/01.html",
+          "sha256": "e8594781715b2e108c58a4d376c122baa5e92b770a484654b8fffe4de3690c7e",
+          "bytes": 1403
+        }
+      ]
+    },
+    {
+      "id": "liaofan-sixun",
+      "title": "了凡四訓",
+      "edition": "維基文庫《了凡四訓》四篇本",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "袁黄，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。本读本收录电子本正文。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "維基文庫《了凡四訓》四篇本",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2545067"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2545067"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本读本无另附夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/liaofan-sixun/content.json",
+          "sha256": "b7d08b9b25f8ffd2e13e253cd6e1bbc2253ae0cf97279c572637bc6d24fe2142",
+          "bytes": 40232
+        },
+        {
+          "path": "books/liaofan-sixun/edition.epub",
+          "sha256": "a8419216e14793ffb77479472342f17198fed44d299c4e550ed411abfedbcf96",
+          "bytes": 23379
+        },
+        {
+          "path": "books/liaofan-sixun/edition.txt",
+          "sha256": "fefde6231690622ada3c31e2245f24f666c2d2f7df34eb6b6d4c6d293001c525",
+          "bytes": 36091
+        },
+        {
+          "path": "books/liaofan-sixun/meta.json",
+          "sha256": "8c7edea528b3b552ba8acdbf8f1c45128f087e00d8a7167dd47ea29f995134bf",
+          "bytes": 3028
+        },
+        {
+          "path": "s/02.html",
+          "sha256": "9bdc801308a8d26d423af8a90e04fbf9e34e07aa436b8c78f241017f187ed86d",
+          "bytes": 1359
+        }
+      ]
+    },
+    {
+      "id": "huangdi-neijing",
+      "title": "黃帝內經",
+      "edition": "中文维基文库《黃帝內經》素问二十四卷、灵枢十二卷本",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "佚名，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "中文维基文库《黃帝內經》素问二十四卷、灵枢十二卷本",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2083230"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2083230"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "同一底本所标随文注文或异文。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2083230"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/huangdi-neijing/content.json",
+          "sha256": "07fd7777d84ad18698277df2ea068e16b5a1dc676397c15a10c91ed13da99170",
+          "bytes": 769717
+        },
+        {
+          "path": "books/huangdi-neijing/edition.epub",
+          "sha256": "b646f2076f519334807e8c3743e9cf80a10d5b9b78f5e7b8089fcb40853224cf",
+          "bytes": 329501
+        },
+        {
+          "path": "books/huangdi-neijing/edition.txt",
+          "sha256": "e6abb6a6488f881b1edc3e79773720cf74cec480c0af57a41c6f0d209d3fe887",
+          "bytes": 583978
+        },
+        {
+          "path": "books/huangdi-neijing/meta.json",
+          "sha256": "6847ba7e8f211229e7c2d4359109cabe48ebbd8140d96aad6958c52dbc180cc9",
+          "bytes": 3291
+        },
+        {
+          "path": "s/03.html",
+          "sha256": "1e9a8cd91b9bada4b699c51667c2e09d21131cb6c74b1373445ad3b4c0f60ef3",
+          "bytes": 4870
+        }
+      ]
+    },
+    {
+      "id": "lunyu",
+      "title": "論語",
+      "edition": "維基文庫《論語》二十篇經文",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "孔子弟子及再传弟子编纂，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "維基文庫《論語》二十篇經文",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12807585"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12807585"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "同一底本所标随文注文或异文。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12807585"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/lunyu/content.json",
+          "sha256": "fd8489dd16cfc9a608299784a662bc24f809bc0b22cc971826ad79a76165cf09",
+          "bytes": 91250
+        },
+        {
+          "path": "books/lunyu/edition.epub",
+          "sha256": "e6af20d29cd9913ef2f36797af82d101d8560a0934078b10ceb83401a6f5ad6f",
+          "bytes": 43356
+        },
+        {
+          "path": "books/lunyu/edition.txt",
+          "sha256": "80a2e526a5d6b172a84e13ad3c752d74cfbb682081941d0c7fdd7ad2d69c914e",
+          "bytes": 70993
+        },
+        {
+          "path": "books/lunyu/meta.json",
+          "sha256": "f6d5de0f1b7f4e6b60e4140194e3f9638a207f2b3c2e379ce21dbf213602a1a8",
+          "bytes": 3167
+        },
+        {
+          "path": "s/04.html",
+          "sha256": "4c88db65225628f3b4606b7b4059f07219620cffeb48b10c19a636413e89a1c9",
+          "bytes": 3254
+        }
+      ]
+    },
+    {
+      "id": "caigentan",
+      "title": "菜根譚",
+      "edition": "維基文庫《菜根譚》明刻本前、後集",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "洪应明，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。本读本收录电子本正文。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "維基文庫《菜根譚》明刻本前、後集",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2561729"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2561729"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本读本无另附夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/caigentan/content.json",
+          "sha256": "a77647a2146cebba02333b554fdfcd19554dda890141ad3fc9d9f837c481c6cc",
+          "bytes": 79010
+        },
+        {
+          "path": "books/caigentan/edition.epub",
+          "sha256": "3843f85f6feda48b962985d6747a96c460bda518de983ae0adef594178ef9847",
+          "bytes": 28741
+        },
+        {
+          "path": "books/caigentan/edition.txt",
+          "sha256": "dccc1efe4dc2c479b5eb2cbf51180153a8a00e7b6668f66aa708c0a84a741405",
+          "bytes": 46764
+        },
+        {
+          "path": "books/caigentan/meta.json",
+          "sha256": "6b306cce0d75adca44feafc91cb367c4965803da693f8877a5c35d266dd4a9a7",
+          "bytes": 3024
+        },
+        {
+          "path": "s/05.html",
+          "sha256": "9e049f4d9bfe36d9f68ccf0753aaabf472861285fcbbc11f844839d83558f9a8",
+          "bytes": 1357
+        }
+      ]
+    },
+    {
+      "id": "fusheng-liuji",
+      "title": "浮生六記",
+      "edition": "維基文庫《浮生六記》存世前四卷",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "沈复，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。本读本收录电子本正文。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "維基文庫《浮生六記》存世前四卷",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2111430"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2111430"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本读本无另附夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/fusheng-liuji/content.json",
+          "sha256": "4b1a008ff778f10685bd6bc684a32da09a5cb4ff58a7b513b19e4506da2608e5",
+          "bytes": 113721
+        },
+        {
+          "path": "books/fusheng-liuji/edition.epub",
+          "sha256": "894764997da12948be93f5d3803405adaf0c43a3589dcaa4c09faddb77079ae7",
+          "bytes": 63731
+        },
+        {
+          "path": "books/fusheng-liuji/edition.txt",
+          "sha256": "cfcb0448d9c6a9949618a4bb755718f75caa96600c025d34b1d07af8387a5a2b",
+          "bytes": 110393
+        },
+        {
+          "path": "books/fusheng-liuji/meta.json",
+          "sha256": "0c0006c7bcca5160d0b91e090bee936037c33fcdd54f2ab91a416dfb19a93be5",
+          "bytes": 3018
+        },
+        {
+          "path": "s/06.html",
+          "sha256": "eec3161486c4b9f44ad61b18a27179f46cf81e26fdd2d56006ad56c96050a74c",
+          "bytes": 1657
+        }
+      ]
+    },
+    {
+      "id": "mengxi-bitan",
+      "title": "夢溪筆談",
+      "edition": "中文维基文库《夢溪筆談》二十六卷及序、《補筆談》三卷、《續筆談》",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "沈括，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "中文维基文库《夢溪筆談》二十六卷及序、《補筆談》三卷、《續筆談》",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/407068"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/407068"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "同一底本所标随文注文或异文。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/407068"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/mengxi-bitan/content.json",
+          "sha256": "b94558a36420ffed2fb9d9925abde5b8d91b0be0bedcbb96ca08f07770866f6d",
+          "bytes": 416484
+        },
+        {
+          "path": "books/mengxi-bitan/edition.epub",
+          "sha256": "8a455d6cf69da4bd8e1dba0755e38c7e5f91b03446f3dcd3dd5981a2b81a5aa7",
+          "bytes": 214637
+        },
+        {
+          "path": "books/mengxi-bitan/edition.txt",
+          "sha256": "41643241cf2d2cd1c7ed3fa13af10dde9180bd5898af6055e2656c71f4fb44a7",
+          "bytes": 388392
+        },
+        {
+          "path": "books/mengxi-bitan/meta.json",
+          "sha256": "7f8be11684d6a9217c1fe769515926094efb9ed6cbbc1e0f4a8b37aeb7f287f4",
+          "bytes": 3270
+        },
+        {
+          "path": "s/07.html",
+          "sha256": "7d83dcdbb84161ebebb59f22dbffa900c327d5055362fbafebaff96dc6844cea",
+          "bytes": 4179
+        }
+      ]
+    },
+    {
+      "id": "chajing",
+      "title": "茶經",
+      "edition": "維基文庫《茶經》十篇附原注",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "陆羽，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "維基文庫《茶經》十篇附原注",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/355224"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/355224"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "同一底本所标随文注文或异文。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/355224"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/chajing/content.json",
+          "sha256": "95a3a6d6252239522134d96b098d84fa7aa2e10397f3aff6eb584cd30407b3e8",
+          "bytes": 38107
+        },
+        {
+          "path": "books/chajing/edition.epub",
+          "sha256": "4a50bd8e906f9ed6872f588bd276e15e8c16d0690ddc2871dd96211f3a623ef7",
+          "bytes": 22721
+        },
+        {
+          "path": "books/chajing/edition.txt",
+          "sha256": "2464883ed4de5eb7e19515c8e7be9ae115eed86694e5616b8cff229ea4cfde24",
+          "bytes": 30374
+        },
+        {
+          "path": "books/chajing/meta.json",
+          "sha256": "8938440e436e7612562fec9a265392c90c216cbc2179d92fecde2cd2d7571042",
+          "bytes": 3070
+        },
+        {
+          "path": "s/08.html",
+          "sha256": "86b1fe337916a543a61fe1cdd88265d11a47eb269c532ad426be82b5821b2634",
+          "bytes": 2223
+        }
+      ]
+    },
+    {
+      "id": "shipin",
+      "title": "詩品",
+      "edition": "維基文庫《詩品》序及上中下三卷",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "钟嵘，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。本读本收录电子本正文。原件的缺字标记「□」照录，待独立对勘。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "維基文庫《詩品》序及上中下三卷",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/9684735"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/9684735"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本读本无另附夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/shipin/content.json",
+          "sha256": "cbbe1b03d1e2cb19a10a399813eb7afc06b3c4c9899c5f9bd986807c78ca351a",
+          "bytes": 26574
+        },
+        {
+          "path": "books/shipin/edition.epub",
+          "sha256": "282ba42199142169269cba2cfb077c02cd2eb70ad7f38bc0cb22c9e0e0d4086c",
+          "bytes": 17382
+        },
+        {
+          "path": "books/shipin/edition.txt",
+          "sha256": "d2175bfc2cb28569714d1c1788f75cae0eb1ae849b764d8964054f5fcab96ba4",
+          "bytes": 22812
+        },
+        {
+          "path": "books/shipin/meta.json",
+          "sha256": "94f3caed0c10e1abb7e7232584fd00003110aab7f315a83ea25edc86e9cb8bf9",
+          "bytes": 3107
+        },
+        {
+          "path": "s/09.html",
+          "sha256": "253db00f6e0ed7b9cd713f9f4dde4ed879052b6214f173cd8207db89363f1c5c",
+          "bytes": 1687
+        }
+      ]
+    },
+    {
+      "id": "daxue",
+      "title": "大學",
+      "edition": "維基文庫《禮記·大學》篇",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "《礼记》篇，作者待考，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "維基文庫《禮記·大學》篇",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12293666"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12293666"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "同一底本所标随文注文或异文。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12293666"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/daxue/content.json",
+          "sha256": "086fccd822d5495f6449fbdc392defd253c11070a7ac9774bbda238905878386",
+          "bytes": 7130
+        },
+        {
+          "path": "books/daxue/edition.epub",
+          "sha256": "5321baef285959140500276c147a5361989ce90298b2cc33ff3c7d07fd953431",
+          "bytes": 6208
+        },
+        {
+          "path": "books/daxue/edition.txt",
+          "sha256": "e545892348cd8719c7cbe6d50b8a09d2755ec9896fa331af3027b2265600aac1",
+          "bytes": 7763
+        },
+        {
+          "path": "books/daxue/meta.json",
+          "sha256": "c1f976ef6eb52a64375aa30a74a78c6fddc5e44e44c2eaf607e6b1abd5ff9324",
+          "bytes": 3144
+        },
+        {
+          "path": "s/10.html",
+          "sha256": "277504fbb19e35eea4d894d7ae89c196e64a59bd123eec622d30100485184bcd",
+          "bytes": 1360
+        }
+      ]
+    },
+    {
+      "id": "zhongyong",
+      "title": "中庸",
+      "edition": "維基文庫《禮記·中庸》篇",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "《礼记》篇，作者待考，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "維基文庫《禮記·中庸》篇",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12758529"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12758529"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "同一底本所标随文注文或异文。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12758529"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/zhongyong/content.json",
+          "sha256": "63a6ebbcc8e98e16fb721eb9e0dfe29737583e0abe6d0893ea836f99774d1b44",
+          "bytes": 15363
+        },
+        {
+          "path": "books/zhongyong/edition.epub",
+          "sha256": "0d995faa8c33081bd45a59faeb16d0c3cb0cf6d064b5adad2c6778b94a0b8625",
+          "bytes": 9155
+        },
+        {
+          "path": "books/zhongyong/edition.txt",
+          "sha256": "07cbfb5306650fb0646adf07dd4eb5bdff9a37ff93972e7f64d1929347716d16",
+          "bytes": 14776
+        },
+        {
+          "path": "books/zhongyong/meta.json",
+          "sha256": "ad6b7e9db15ebb2182852db979a1592111a754f7a59702df347eea5957afc45f",
+          "bytes": 3141
+        },
+        {
+          "path": "s/11.html",
+          "sha256": "94374e60e7178a58d7ce30672f5beb87dd60b4f71a0f8366118f47af97c6eae7",
+          "bytes": 1368
+        }
+      ]
+    },
+    {
+      "id": "mengzi",
+      "title": "孟子",
+      "edition": "維基文庫《孟子》七篇上下",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "孟子及其门人，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "維基文庫《孟子》七篇上下",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2642991"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2642991"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "同一底本所标随文注文或异文。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2642991"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/mengzi/content.json",
+          "sha256": "d4fd73b23e40e170d4b4c8d6abe7e48c6b979fa9a5b8da1462fc15fe8cba03d6",
+          "bytes": 167689
+        },
+        {
+          "path": "books/mengzi/edition.epub",
+          "sha256": "ac5bddd1eb85716ea3aefe3d6afb4dc350af30ba8c4114f3a36fbed85496b07f",
+          "bytes": 69287
+        },
+        {
+          "path": "books/mengzi/edition.txt",
+          "sha256": "f1b1913be13b9b944268aeeda52d111e7fe7226d708a7cfb292cbf1c1a23d192",
+          "bytes": 138829
+        },
+        {
+          "path": "books/mengzi/meta.json",
+          "sha256": "87ba7d6084bfb90ac7675eeb0b6666b32bc80dd53d2f35b180b56981703e005c",
+          "bytes": 3093
+        },
+        {
+          "path": "s/12.html",
+          "sha256": "525213823ae7147568aabcf7963a7515d2073a7691b0ab11de618bf95a6a0847",
+          "bytes": 2631
+        }
+      ]
+    },
+    {
+      "id": "laozi-heshanggong",
+      "title": "老子河上公注",
+      "edition": "中文维基文库《老子河上公章句》道经、德经八十一章注本",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "旧题河上公注，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "中文维基文库《老子河上公章句》道经、德经八十一章注本",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2019760"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2019760"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "同一底本所标随文注文或异文。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2019760"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/laozi-heshanggong/content.json",
+          "sha256": "8ab18c7d9c2dd500f857f112271d13c295fe9e99d5a8e2800f4c4c117b04c0c3",
+          "bytes": 161547
+        },
+        {
+          "path": "books/laozi-heshanggong/edition.epub",
+          "sha256": "cb7ea36b02b779a5d1e406cefd93ed123981cd8d5485fcc5e4449e3a35122688",
+          "bytes": 83181
+        },
+        {
+          "path": "books/laozi-heshanggong/edition.txt",
+          "sha256": "b00b22710bb339b6c99c55e9ddc6b2070e2e6d4fcabdc549f0be362fb2705b88",
+          "bytes": 91303
+        },
+        {
+          "path": "books/laozi-heshanggong/meta.json",
+          "sha256": "c26e40f271683aafa53bdbd7bd80f2784252816ea8f23cfa3c3b0eeb3526f342",
+          "bytes": 3304
+        },
+        {
+          "path": "s/13.html",
+          "sha256": "5972f1aac602b3b0ba509b625a14bfa919061f47b9b67618d55488c24adbda14",
+          "bytes": 1537
+        }
+      ]
+    },
+    {
+      "id": "shuihu-zhuan",
+      "title": "水滸傳",
+      "edition": "維基文庫《忠義水滸全傳》一百二十回本（含序及引首）",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "旧题施耐庵，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "維基文庫《忠義水滸全傳》一百二十回本（含序及引首）",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2593267"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2593267"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "同一底本所标随文注文或异文。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2593267"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/shuihu-zhuan/content.json",
+          "sha256": "db724bdd8c8341b87c5be166584edd37333c2cabe6824748f6476c09831b5355",
+          "bytes": 2948299
+        },
+        {
+          "path": "books/shuihu-zhuan/edition.epub",
+          "sha256": "e335fbb482499738fe2425e5fbc11c1575c4c5469bd6be7f999f9ff501924caf",
+          "bytes": 1361182
+        },
+        {
+          "path": "books/shuihu-zhuan/edition.txt",
+          "sha256": "4a017e936cda80c82d24e9cd00f115952bf65b5e6b63ab72141c0eb4b6174f72",
+          "bytes": 2732067
+        },
+        {
+          "path": "books/shuihu-zhuan/meta.json",
+          "sha256": "18a7e32567f56a036ddcbb7cf8ba674c90ecca3c776aa855a0a86c37e1818968",
+          "bytes": 3243
+        },
+        {
+          "path": "s/14.html",
+          "sha256": "2474c3b90410e65de461b88f2da96c1804332ca2f6a25884c0ba4dd78e4ac749",
+          "bytes": 13407
+        }
+      ]
+    },
+    {
+      "id": "sanguo-yanyi",
+      "title": "三國演義",
+      "edition": "維基文庫毛綸、毛宗崗改訂一百二十回本（含序、讀法及凡例）",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "罗贯中，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "維基文庫毛綸、毛宗崗改訂一百二十回本（含序、讀法及凡例）",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/5401635"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/5401635"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "同一底本所标随文注文或异文。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/5401635"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/sanguo-yanyi/content.json",
+          "sha256": "cc163ff0edad9b65fe72313ce612384b487aff8cece6a293a9d07e7ee5cc5934",
+          "bytes": 1995115
+        },
+        {
+          "path": "books/sanguo-yanyi/edition.epub",
+          "sha256": "1063e0d181f2dfa0c5455d585aaead51f6e5cb73b2f28a22122e7e820eb14ed3",
+          "bytes": 985944
+        },
+        {
+          "path": "books/sanguo-yanyi/edition.txt",
+          "sha256": "52eb3805ebafc5e7d611aaa63f954a693d1c11f0c773997ee9be752dbd032002",
+          "bytes": 1853385
+        },
+        {
+          "path": "books/sanguo-yanyi/meta.json",
+          "sha256": "67358f5aa63510864b68333a29f3d23db37463a29c98c34defa5dbfeb109841f",
+          "bytes": 3258
+        },
+        {
+          "path": "s/15.html",
+          "sha256": "3ffb9dce5bc02ba6cf05ce911be2bfbdf975c68bfa64b96a1c516f4d5c4a1a1d",
+          "bytes": 15608
+        }
+      ]
+    },
+    {
+      "id": "xiyou-ji",
+      "title": "西遊記",
+      "edition": "維基文庫百回本（第九回收陳光蕊故事）",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "旧题吴承恩，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "維基文庫百回本（第九回收陳光蕊故事）",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/7905272"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/7905272"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "同一底本所标随文注文或异文。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/7905272"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/xiyou-ji/content.json",
+          "sha256": "0768c931ccefb87fb1fa6c843061ec18a8e9075ac23ad218447f6c2abea15289",
+          "bytes": 2390645
+        },
+        {
+          "path": "books/xiyou-ji/edition.epub",
+          "sha256": "12c514587038f60bae839c5bec74fc5d386e91e675a3b7ceaa70f26f0e1ce54c",
+          "bytes": 1120589
+        },
+        {
+          "path": "books/xiyou-ji/edition.txt",
+          "sha256": "aa4fa59509369125e89808a720dd6635b90e63d4ed56aa6fc3e38f94a1a52b05",
+          "bytes": 2177861
+        },
+        {
+          "path": "books/xiyou-ji/meta.json",
+          "sha256": "86aa37f36e3efa63c43ab836e4f3b8c58acbbbbb30dc28f678621bab849f713b",
+          "bytes": 3168
+        },
+        {
+          "path": "s/16.html",
+          "sha256": "3f7b388e18987c7af52c7f67af2b77bcb317b13f0455eecdc810908f5c1250ba",
+          "bytes": 11270
+        }
+      ]
+    },
+    {
+      "id": "guoyu",
+      "title": "國語",
+      "edition": "中文维基文库《國語》二十一卷，韦昭注、随文校记本",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "佚名，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "中文维基文库《國語》二十一卷，韦昭注、随文校记本",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/1999131"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/1999131"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "同一底本所标随文注文或异文。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/1999131"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/guoyu/content.json",
+          "sha256": "bc12ce0b678dc2e01979b3d41f564b418d72b1d129a2663c07455bcb9ea38bb9",
+          "bytes": 1141916
+        },
+        {
+          "path": "books/guoyu/edition.epub",
+          "sha256": "f67dbf81e984c0cd0ea24ab2fd11a2871056979639e7773f4573fb76fb1def53",
+          "bytes": 452844
+        },
+        {
+          "path": "books/guoyu/edition.txt",
+          "sha256": "dafce32dc4dce5958090cac64fb3f74416194edb3796b25cf0cb75a34aeb7df5",
+          "bytes": 721645
+        },
+        {
+          "path": "books/guoyu/meta.json",
+          "sha256": "6df71b5d0797256ec9bd6b5c778378a7aed096f28145f590a996243019459df9",
+          "bytes": 3183
+        },
+        {
+          "path": "s/17.html",
+          "sha256": "9db45da2c19bcf1f87b27fcecd545e88c93c06a22cf5201ce4004c2a702dfe98",
+          "bytes": 3345
+        }
+      ]
+    },
+    {
+      "id": "chenshu",
+      "title": "陳書",
+      "edition": "維基文庫《欽定四庫全書》本，三十六卷（含卷首及原書考證）",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "姚思廉，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。四库字表中仅有构形描述的字按原位保留描述，待影印校核。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "維基文庫《欽定四庫全書》本，三十六卷（含卷首及原書考證）",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/750772"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/750772"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "同一底本所标随文注文或异文。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/750772"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/chenshu/content.json",
+          "sha256": "ccfaf1e7834ebd32f511a0c815644b8af7972a743818e2f2eca3197a15a5c7d3",
+          "bytes": 560333
+        },
+        {
+          "path": "books/chenshu/edition.epub",
+          "sha256": "5738ebfc3f71b32f7d37ffbdddf391a451044a4698983bd05d3f76a2778de405",
+          "bytes": 302773
+        },
+        {
+          "path": "books/chenshu/edition.txt",
+          "sha256": "8b217c15c1a8febc5185a74256cbede6b45c5edf023da5d1a45390afce0e564e",
+          "bytes": 523653
+        },
+        {
+          "path": "books/chenshu/meta.json",
+          "sha256": "2e9521515b434598569e248296c5d993d0bfe280c8e2502f76e0473bd14dac11",
+          "bytes": 3389
+        },
+        {
+          "path": "s/18.html",
+          "sha256": "4715238a8a223f431cd26da84d8a397d19a43ffeacd4851193e4acebba7bd5e6",
+          "bytes": 5192
+        }
+      ]
+    },
+    {
+      "id": "mudanting",
+      "title": "牡丹亭",
+      "edition": "維基文庫《牡丹亭》五十五齣（含湯顯祖題詞）",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "汤显祖，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+      "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "維基文庫《牡丹亭》五十五齣（含湯顯祖題詞）",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12923086"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库逐页固定修订。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12923086"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "同一底本所标随文注文或异文。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/12923086"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无另附现代译本。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/mudanting/content.json",
+          "sha256": "8f50892eaf0830d302672f0b7b39d1bf6f43205e968c75ef1afa8205f2c6a436",
+          "bytes": 391032
+        },
+        {
+          "path": "books/mudanting/edition.epub",
+          "sha256": "7223f1c81263170d3a78bdf643354090e01dc26a6e73cea2dd7577cec1ce3786",
+          "bytes": 183206
+        },
+        {
+          "path": "books/mudanting/edition.txt",
+          "sha256": "b455ea53331be043be6eb0cc80359f7586d900c402f0f14ccbbddf2931e125d5",
+          "bytes": 287983
+        },
+        {
+          "path": "books/mudanting/meta.json",
+          "sha256": "f44a3531215ffc5526c8d24fe43f0e2fc532580ce977f406a69554d41885974a",
+          "bytes": 3185
+        },
+        {
+          "path": "s/19.html",
+          "sha256": "bf66306c29bd47ea2f2d21ef974d92e734e63e0f78cf0ba1edce3b58c8721e80",
+          "bytes": 6918
+        }
+      ]
+    },
+    {
+      "id": "qianziwen",
+      "title": "千字文",
+      "edition": "国立故宫博物院《元趙雍草書千文》册，作品号故書00016100000，至正二年（1342）",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "credit": "元趙雍草書千文　冊　國立故宮博物院，臺北，CC BY 4.0 @ www.npm.gov.tw",
+      "method": "子衿古籍依此册馆藏释文分篇排版，保留原录的字形和缺字记号。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "国立故宫博物院《元趙雍草書千文》册，作品号故書00016100000，至正二年（1342）",
+          "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/400?dep=P"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "国立故宫博物院《元趙雍草書千文》册，作品号故書00016100000，至正二年（1342）。按所录结构转换。",
+          "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/400?dep=P"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本件未另编夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "对校本 · 国立故宫博物院《拓本敬勝齋法帖（三十七）》清高宗御临董其昌书千字文",
+          "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/23842?dep=P"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/qianziwen/content.json",
+          "sha256": "0f7ffedd285e2f1946d54bdf3c12444a090236d8e419395ef5bc735b2d508a49",
+          "bytes": 3952
+        },
+        {
+          "path": "books/qianziwen/edition.epub",
+          "sha256": "8addd5353633ce33790bb4d5ea9acda4a231032504e424bc45bdd2226e36bc37",
+          "bytes": 5617
+        },
+        {
+          "path": "books/qianziwen/edition.txt",
+          "sha256": "d615a4f8df5b16334615426f7675e39d9075652855315ba2f81fd01aa62ebd38",
+          "bytes": 4693
+        },
+        {
+          "path": "books/qianziwen/meta.json",
+          "sha256": "4faf57d16f0d37b5e2608b39c5e1eb266fc9afc2ca0ed8389cc300a75ecdc027",
+          "bytes": 3369
+        },
+        {
+          "path": "s/20.html",
+          "sha256": "a47ecfd60c59d80618b6a03217c4809414669c9ca2abd47b667484b435d57579",
+          "bytes": 1250
+        }
+      ]
+    },
+    {
+      "id": "shenglv-qimeng",
+      "title": "聲律啓蒙",
+      "edition": "声律启蒙 · 维基文库上下卷",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "車萬育 原著。中文维基文库贡献者录校，各固定页面保留编辑履历。",
+      "method": "子衿古籍依所列版本提取正文和随文注释，并作分章、竖排整理。整理贡献按相同许可共享。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "声律启蒙 · 维基文库上下卷",
+          "url": "https://zh.wikisource.org/wiki/%E8%81%B2%E5%BE%8B%E5%95%93%E8%92%99"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "声律启蒙 · 维基文库上下卷。按所录结构转换。",
+          "url": "https://zh.wikisource.org/wiki/%E8%81%B2%E5%BE%8B%E5%95%93%E8%92%99"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "采用本件标示的注、异读或夹行文字。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        },
+        {
+          "kind": "transcription",
+          "status": "not-applicable",
+          "detail": "对校本 · chinese-poetry 蒙学录本，上下卷",
+          "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%92%99%E5%AD%A6/shenglvqimeng.json"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/shenglv-qimeng/content.json",
+          "sha256": "e4f5d76a988ae22f40f0afc4329649360f26fd67e4853df9207cd8d81ae51ccc",
+          "bytes": 43329
+        },
+        {
+          "path": "books/shenglv-qimeng/edition.epub",
+          "sha256": "4e52b28cbb5566f39127e54f2044f2e05a2ba3b8dd66caa98198d5e7cbf18f58",
+          "bytes": 34163
+        },
+        {
+          "path": "books/shenglv-qimeng/edition.txt",
+          "sha256": "36ff8e90c765af6370efbb6d2af03235ae06fa080c7fba48e270cde8a4380dcd",
+          "bytes": 27308
+        },
+        {
+          "path": "books/shenglv-qimeng/meta.json",
+          "sha256": "31215511871ae7054b7f86d418215714ee936553fbdec36184711ff30709b1d5",
+          "bytes": 3012
+        },
+        {
+          "path": "s/21.html",
+          "sha256": "e6d1fcdb692499198d64c6ac90c204eb333a4217046249bbfcb737457489d7d9",
+          "bytes": 1343
+        }
+      ]
+    },
+    {
+      "id": "zhuangzi",
+      "title": "莊子",
+      "edition": "庄子 · 维基文库内外杂三十三篇",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "莊周等 原著。中文维基文库贡献者录校，各固定页面保留编辑履历。",
+      "method": "子衿古籍依所列版本提取正文和随文注释，并作分章、竖排整理。整理贡献按相同许可共享。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "庄子 · 维基文库内外杂三十三篇",
+          "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "庄子 · 维基文库内外杂三十三篇。按所录结构转换。",
+          "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "采用本件标示的注、异读或夹行文字。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        },
+        {
+          "kind": "transcription",
+          "status": "not-applicable",
+          "detail": "对校本 · 正统道藏《南华真经》，Kanripo KR5c0051",
+          "url": "https://raw.githubusercontent.com/kanripo/KR5c0051/bb563d4b0cb31fdecfa639e9544c405d59d5c3c8/KR5c0051_000.txt"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/zhuangzi/content.json",
+          "sha256": "dd1b4563063289143a3f3805de88ae7489d0b69c461525b70e9c6b00187a2b5a",
+          "bytes": 305451
+        },
+        {
+          "path": "books/zhuangzi/edition.epub",
+          "sha256": "5c6f97fd732655cb4c39cd54daea48472dbd6adeca779f1a6330aad6ec1d932a",
+          "bytes": 140205
+        },
+        {
+          "path": "books/zhuangzi/edition.txt",
+          "sha256": "99758912c2c81e07f8ae080abbaee3729d521c0900fa944c2f2109763f84f7ba",
+          "bytes": 261610
+        },
+        {
+          "path": "books/zhuangzi/meta.json",
+          "sha256": "464765c2ea92b0d0ad775a2f0f1106bc068425e5f2f23dee686366815d28fee5",
+          "bytes": 2956
+        },
+        {
+          "path": "s/22.html",
+          "sha256": "fa4e09d9ca9d70dbc506677a1b4faf524324b89792bb076eabfdd3088c571d46",
+          "bytes": 4603
+        }
+      ]
+    },
+    {
+      "id": "yehangchuan",
+      "title": "夜航船",
+      "edition": "维基文库 CADAL 影页转录 · 张岱《夜航船》序及二十卷",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "張岱 原著。中文维基文库贡献者录校，各固定页面保留编辑履历。",
+      "method": "子衿古籍依所列版本提取正文和随文注释，并作分章、竖排整理。整理贡献按相同许可共享。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "维基文库 CADAL 影页转录 · 张岱《夜航船》序及二十卷",
+          "url": "https://zh.wikisource.org/wiki/%E5%A4%9C%E8%88%AA%E8%88%B9"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "维基文库 CADAL 影页转录 · 张岱《夜航船》序及二十卷。按所录结构转换。",
+          "url": "https://zh.wikisource.org/wiki/%E5%A4%9C%E8%88%AA%E8%88%B9"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "采用本件标示的注、异读或夹行文字。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        },
+        {
+          "kind": "transcription",
+          "status": "not-applicable",
+          "detail": "对校本 · 殆知阁电子本 · 子藏/类书/夜航船.txt",
+          "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/4a6d6f2088825f132521d848c2ea86cf9c9a7620/%E5%AD%90%E8%97%8F/%E7%B1%BB%E4%B9%A6/%E5%A4%9C%E8%88%AA%E8%88%B9.txt"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/yehangchuan/content.json",
+          "sha256": "520f36639b7a060f73b05459225f3724939e0c6295eff4713b2564fdd28b2fca",
+          "bytes": 1160374
+        },
+        {
+          "path": "books/yehangchuan/edition.epub",
+          "sha256": "d1611b105e48a50373aac2f97236d73b47350ddb4c3f14b317741d443d403b4d",
+          "bytes": 451236
+        },
+        {
+          "path": "books/yehangchuan/edition.txt",
+          "sha256": "27836ce16cc9ca08faf2f732699d370f63fc85536c1b767fe6031b311f0fc632",
+          "bytes": 979477
+        },
+        {
+          "path": "books/yehangchuan/meta.json",
+          "sha256": "e2ac6c47cf51321777f925143007d78d8633b5efb02d845af9a364db7afa76ec",
+          "bytes": 3149
+        },
+        {
+          "path": "s/23.html",
+          "sha256": "07f2e9bcbdfefd4e8c17912b1bb9098ce293a14f96dd3f39e2d792e76c8d9730",
+          "bytes": 124841
+        }
+      ]
+    },
+    {
+      "id": "jinkui-yaolue",
+      "title": "金匱要略",
+      "edition": "金匮要略 · 维基文库二十五篇",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "張仲景 原著。中文维基文库贡献者录校，各固定页面保留编辑履历。",
+      "method": "子衿古籍依所列版本提取正文和随文注释，并作分章、竖排整理。整理贡献按相同许可共享。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "金匮要略 · 维基文库二十五篇",
+          "url": "https://zh.wikisource.org/wiki/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "金匮要略 · 维基文库二十五篇。按所录结构转换。",
+          "url": "https://zh.wikisource.org/wiki/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "采用本件标示的注、异读或夹行文字。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        },
+        {
+          "kind": "transcription",
+          "status": "not-applicable",
+          "detail": "对校本 · 四部丛刊《新编金匮要畧方论》卷上中下，Kanripo KR3e0007",
+          "url": "https://raw.githubusercontent.com/kanripo/KR3e0007/d4c00946ea65844c400f125cc2905eef0db92cfc/KR3e0007_000.txt"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/jinkui-yaolue/content.json",
+          "sha256": "2c3acce4e452d8177107d8cb985f655935d7d0894d56d4225f0a649689ac4d8b",
+          "bytes": 134944
+        },
+        {
+          "path": "books/jinkui-yaolue/edition.epub",
+          "sha256": "3b65775795fb491dabe2eb9bea53b0f9ef523e7786ad7b8707f6fa709a7e4686",
+          "bytes": 58524
+        },
+        {
+          "path": "books/jinkui-yaolue/edition.txt",
+          "sha256": "03b904f87f0ffba768ad1e7fe066564effdeece87dc270cf6c1c8ac1b06f0a63",
+          "bytes": 92222
+        },
+        {
+          "path": "books/jinkui-yaolue/meta.json",
+          "sha256": "7e1d41df801271255ebb78c914d334f4199fa5aa943fdc96628feb60568fe400",
+          "bytes": 3031
+        },
+        {
+          "path": "s/24.html",
+          "sha256": "9ef850af414c69aba5d086032cd06b298b5bef6aecc8840b3b19585f0f3cb73a",
+          "bytes": 1347
+        }
+      ]
+    },
+    {
+      "id": "zhouyi-jing",
+      "title": "周易",
+      "edition": "Kanripo KR1a0001 · 周易正文（不含王弼注文）",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "汉籍リポジトリ（Kanseki Repository）电子整理，经传旧题。",
+      "method": "子衿古籍据登记版本提取经文、分章并重排。整理贡献按相同许可共享。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "Kanripo KR1a0001 · 周易正文（不含王弼注文）",
+          "url": "https://github.com/kanripo/KR1a0001/tree/8284adbf9e3435d713180e24f05bf75f8b7d1d96"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "Kanripo KR1a0001 · 周易正文（不含王弼注文）。按所录结构转换。",
+          "url": "https://github.com/kanripo/KR1a0001/tree/8284adbf9e3435d713180e24f05bf75f8b7d1d96"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本件未另编夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/zhouyi-jing/content.json",
+          "sha256": "bea1462c7e9bbb0c6130554e778e9a4f683ce2bf5b30e710a45a368c9d81b3d8",
+          "bytes": 362670
+        },
+        {
+          "path": "books/zhouyi-jing/edition.epub",
+          "sha256": "6be386d56687f75bb7da312851c860fa9914aaadb48cecebaf06659c5154334b",
+          "bytes": 80023
+        },
+        {
+          "path": "books/zhouyi-jing/edition.txt",
+          "sha256": "e323b6df6fe7fb0d5862aec1d31c2b6461065dc9a74bb706fc5bbb41e7836e19",
+          "bytes": 101968
+        },
+        {
+          "path": "books/zhouyi-jing/meta.json",
+          "sha256": "5a5d2f4882d08fb37b8c0554738fa6edbdecbd54aed0ddaf74ba65a773b471b0",
+          "bytes": 2734
+        },
+        {
+          "path": "s/25.html",
+          "sha256": "1e240130ca91e000c897de6be271fec3dfdad102abc1ba1e45088ac43c74d344",
+          "bytes": 1287
+        }
+      ]
+    },
+    {
+      "id": "shijing",
+      "title": "詩經",
+      "edition": "chinese-poetry《诗经》简体电子本",
+      "licence": "MIT",
+      "licenceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/LICENSE",
+      "credit": "chinese-poetry 数据库，Copyright (c) 2016 JackeyGao。",
+      "method": "子衿古籍依据该项目的诗经 JSON 按原先次序编排为竖排读本。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "chinese-poetry《诗经》简体电子本",
+          "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "chinese-poetry《诗经》简体电子本。按所录结构转换。",
+          "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本件未另编夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/shijing/content.json",
+          "sha256": "503a834f912766439a92de6f4d1069bc1d7c9a07e0c39b2b5a477e247d27892b",
+          "bytes": 203515
+        },
+        {
+          "path": "books/shijing/edition.epub",
+          "sha256": "9edcfd7afa5e3acac30d5bf250800f5ad37159fda4b006e4dc917f0bd104863f",
+          "bytes": 200271
+        },
+        {
+          "path": "books/shijing/edition.txt",
+          "sha256": "aa71d936ad6f17de06a7dce33d2c9a9a979c87cc44556e3d71e3723db66315a2",
+          "bytes": 132210
+        },
+        {
+          "path": "books/shijing/meta.json",
+          "sha256": "93317c1c4ad82e7be3ef875f0033c34b690f926721c9a70fe7d0a7ecb769c96e",
+          "bytes": 2774
+        },
+        {
+          "path": "s/26.html",
+          "sha256": "02e01b0a52f51abd0bdbf0788c761c18a7d39be2c9d36db265c2ad531b5ce09c",
+          "bytes": 2426
+        }
+      ]
+    },
+    {
+      "id": "chuanxilu",
+      "title": "傳習錄",
+      "edition": "中文维基文库《傳習錄》固定修订本",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "王守仁及其门人，中文维基文库贡献者录校。编辑履历见所列固定修订。",
+      "method": "子衿古籍按原页整理为竖排读本。上中下三卷。保留语录条次与卷内篇题，略现代网页脚注。本整理沿用相同许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "中文维基文库《傳習錄》固定修订本",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/1557064"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库固定页面修订；目录和正文逐卷检核。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/1557064"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "无另附注释。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/chuanxilu/content.json",
+          "sha256": "42c0c944c8d5997a024383248ebaf4f4f6f989c6d4d00b6e60fe824108e40b74",
+          "bytes": 298523
+        },
+        {
+          "path": "books/chuanxilu/edition.epub",
+          "sha256": "594468d6d0e1b5ea2c9eecaa2208703c3fa2f227ceb93e7f0e50ed304d426aae",
+          "bytes": 108682
+        },
+        {
+          "path": "books/chuanxilu/edition.txt",
+          "sha256": "286ba9984aa5d5e444b7e537ce5ee15859d9e80ca2fdfec3c8ebf37325d75bba",
+          "bytes": 245846
+        },
+        {
+          "path": "books/chuanxilu/meta.json",
+          "sha256": "7d82d88ef91053fd6f8201d46164e47164684c73b6186ee636bb12df97802965",
+          "bytes": 3186
+        },
+        {
+          "path": "s/27.html",
+          "sha256": "3cd96be12affad2f479064678c06bf690ae165339bdf7b01fb4a5809757baed2",
+          "bytes": 1702
+        }
+      ]
+    },
+    {
+      "id": "shanhaijing",
+      "title": "山海經",
+      "edition": "中文维基文库《山海經》固定修订本",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "佚名，中文维基文库贡献者录校。编辑履历见所列固定修订。",
+      "method": "子衿古籍按原页整理为竖排读本。十八经与郭璞序。保留卷内标明的原注、异文，略图片、现代校注。本整理沿用相同许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "中文维基文库《山海經》固定修订本",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/3525818"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库固定页面修订；目录和正文逐卷检核。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/3525818"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "同一录本所标的夹注及异文。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/3525818"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/shanhaijing/content.json",
+          "sha256": "a696458c1ce3fac190caa676bfffe4e32c424fdf564de43dd589ca7f86a0abc1",
+          "bytes": 222843
+        },
+        {
+          "path": "books/shanhaijing/edition.epub",
+          "sha256": "93cad81ec7aa022fb8f7466e5879b66f1f8b5bcbf5e5a8de290b1fde5839f7a1",
+          "bytes": 70074
+        },
+        {
+          "path": "books/shanhaijing/edition.txt",
+          "sha256": "9b3abb4e7f85fd0fa59893f6c77bb2b11cf1e9b0ce9c47ce73057cf5f1f40032",
+          "bytes": 151170
+        },
+        {
+          "path": "books/shanhaijing/meta.json",
+          "sha256": "17a731d38b7399e8bff4a24167490b153319d62f33a49533064730fa15f9b012",
+          "bytes": 3273
+        },
+        {
+          "path": "s/28.html",
+          "sha256": "6fe53c3b248edef008e26589fc03c54b61244ce59b8e361cf312b47ab430df94",
+          "bytes": 3264
+        }
+      ]
+    },
+    {
+      "id": "guwen-guanzhi",
+      "title": "古文觀止",
+      "edition": "中文维基文库《古文觀止》固定修订本",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "吳楚材、吳調侯，中文维基文库贡献者录校。编辑履历见所列固定修订。",
+      "method": "子衿古籍按原页整理为竖排读本。两序、例言及十二卷二百二十二篇。保留原文及随文小注。本整理沿用相同许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "中文维基文库《古文觀止》固定修订本",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2620091"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库固定页面修订；目录和正文逐卷检核。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2620091"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "同一录本所标的夹注及异文。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2620091"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/guwen-guanzhi/content.json",
+          "sha256": "aaa0ce0a72332aa9070fd004159fc98608afbfd189c2e032fbfc8b16350c5e00",
+          "bytes": 1540975
+        },
+        {
+          "path": "books/guwen-guanzhi/edition.epub",
+          "sha256": "daa79409c14c8c4ec3d546652b0522cb0d65b6d83485d3563be4b77a985442ec",
+          "bytes": 581635
+        },
+        {
+          "path": "books/guwen-guanzhi/edition.txt",
+          "sha256": "772f84f94bd9df8f42e29be922c8bcd354d7ebcae82697741754059e1029a013",
+          "bytes": 951965
+        },
+        {
+          "path": "books/guwen-guanzhi/meta.json",
+          "sha256": "49c74f1b55981c267ab6e2c789593d7e25887936f93ed4b7a7e706104c36d1ed",
+          "bytes": 3305
+        },
+        {
+          "path": "s/29.html",
+          "sha256": "2d795a7286b215c23eec3604c0806161f338de8ef097cd235e6138f52d1e5623",
+          "bytes": 2704
+        }
+      ]
+    },
+    {
+      "id": "xiaojing-jing",
+      "title": "孝經",
+      "edition": "中文维基文库《今文孝經》固定修订本",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "原文旧题，中文维基文库贡献者录校。编辑履历见所列固定修订。",
+      "method": "子衿古籍按原页整理为竖排读本。今文十八章本，依原页分章。本整理沿用相同许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "中文维基文库《今文孝經》固定修订本",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/1797788"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库固定页面修订；目录和正文逐卷检核。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/1797788"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "无另附注释。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/xiaojing-jing/content.json",
+          "sha256": "3858dc4c34bca5375379fa4f0e323ba42ce6b77fb2c8688b89f97b4441a60a4b",
+          "bytes": 9618
+        },
+        {
+          "path": "books/xiaojing-jing/edition.epub",
+          "sha256": "45edb3e78a3b68877ce69ab974be46dc6dc7c58a4c7083592c3713256fb9d662",
+          "bytes": 14952
+        },
+        {
+          "path": "books/xiaojing-jing/edition.txt",
+          "sha256": "6ba2ec9fbf12f23a24591d28ded7c0b5807d24c47636d3d7f1b49aded01528c2",
+          "bytes": 8771
+        },
+        {
+          "path": "books/xiaojing-jing/meta.json",
+          "sha256": "362596d5178422751ee6bc6d54edc434cf6273d4463da2291b20a5cd244176f7",
+          "bytes": 3058
+        },
+        {
+          "path": "s/30.html",
+          "sha256": "928b76651ff84a23ec154fe8253833c6d9be0672c7c19cbe6df6b40dfedf3305",
+          "bytes": 1365
+        }
+      ]
+    },
+    {
+      "id": "erya-jing",
+      "title": "爾雅",
+      "edition": "中文维基文库《爾雅》固定修订本",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "佚名，中文维基文库贡献者录校。编辑履历见所列固定修订。",
+      "method": "子衿古籍按原页整理为竖排读本。十九篇，依原页分章分条。本整理沿用相同许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "中文维基文库《爾雅》固定修订本",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/9736004"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "中文维基文库固定页面修订；目录和正文逐卷检核。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/9736004"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "同一录本所标的夹注及异文。",
+          "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/9736004"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "无现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "无随附影印图片。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/erya-jing/content.json",
+          "sha256": "86a21c534f2acd1a5870b3a5d26a197ec1f0ac42e43f371f96829cf1ec47f24c",
+          "bytes": 93755
+        },
+        {
+          "path": "books/erya-jing/edition.epub",
+          "sha256": "d32382d00ee72dddd3a7ef398789dc791aee87d692af15afabad5e3cb5b6d9bf",
+          "bytes": 33944
+        },
+        {
+          "path": "books/erya-jing/edition.txt",
+          "sha256": "97c2fa00c57f86f91cd5072b1c8a024ca281e398154e2c17061bb454463d44bc",
+          "bytes": 48220
+        },
+        {
+          "path": "books/erya-jing/meta.json",
+          "sha256": "a97f152149524e5b3e7ca419671ff8356f3aef8023298592bfd79d4e20073402",
+          "bytes": 3088
+        },
+        {
+          "path": "s/31.html",
+          "sha256": "88d832311c3f5d34da9e3b658eaa72266d93c9231249707c8975e6d9cd8f8ac7",
+          "bytes": 1336
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "sanguo-yanyi",
+  "legacyIndex": 14,
+  "title": "三國演義",
+  "aliases": [
+    "三国演义"
+  ],
+  "byline": "明 · 羅貫中",
+  "author": "罗贯中",
+  "dynasty": "明",
+  "section": "子",
+  "category": "小说类",
+  "genre": "小说类",
+  "description": "維基文庫毛綸、毛宗崗改訂一百二十回本（含序、讀法及凡例）",
+  "coverAuthor": "明 · 羅貫中",
+  "excerpt": "余嘗集才子書者六，其目曰《莊》也，《騷》也，馬之《史記》也，杜之律詩也，《水滸》也，《西廂》也。已謬加評訂，海內君子皆許余以為知言。近又取《三國志》讀之，見其據",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "edition": "維基文庫毛綸、毛宗崗改訂一百二十回本（含序、讀法及凡例）",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "維基文庫毛綸、毛宗崗改訂一百二十回本（含序、讀法及凡例）",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/5401635"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库逐页固定修订。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/5401635"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "同一底本所标随文注文或异文。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/5401635"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无另附现代译本。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 123,
+  "characters": 496556,
+  "contentSha256": "cc163ff0edad9b65fe72313ce612384b487aff8cece6a293a9d07e7ee5cc5934",
+  "workId": "work-sanguo-yanyi",
+  "editionId": "edition-sanguo-yanyi-ws-01",
+  "collationStatus": "B",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "罗贯中，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/5401635"
+  },
+  "creditPage": "s/15.html",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "罗贯中，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "cc163ff0edad9b65fe72313ce612384b487aff8cece6a293a9d07e7ee5cc5934",
+    "txtSha256": "52eb3805ebafc5e7d611aaa63f954a693d1c11f0c773997ee9be752dbd032002",
+    "epubSha256": "1063e0d181f2dfa0c5455d585aaead51f6e5cb73b2f28a22122e7e820eb14ed3"
+  },
+  "creditSha256": "3ffb9dce5bc02ba6cf05ce911be2bfbdf975c68bfa64b96a1c516f4d5c4a1a1d"
+}

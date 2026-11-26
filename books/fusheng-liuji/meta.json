@@ -1,0 +1,77 @@
+{
+  "id": "fusheng-liuji",
+  "legacyIndex": 5,
+  "title": "浮生六記",
+  "aliases": [
+    "浮生六记"
+  ],
+  "byline": "清 · 沈復",
+  "author": "沈复",
+  "dynasty": "清",
+  "section": "集",
+  "category": "别集类",
+  "genre": "文学",
+  "description": "維基文庫《浮生六記》存世前四卷",
+  "coverAuthor": "清 · 沈復",
+  "excerpt": "余生乾隆癸未冬十一月二十有二日，正值太平盛世，且在衣冠之家，居蘇州滄浪亭畔，天之厚我可謂至矣。東坡云，「事如春夢了無痕」，苟不記之筆墨，未免有辜彼蒼之厚。因思《",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "edition": "維基文庫《浮生六記》存世前四卷",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "維基文庫《浮生六記》存世前四卷",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2111430"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库逐页固定修订。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/2111430"
+    },
+    {
+      "kind": "annotation",
+      "status": "not-applicable",
+      "detail": "本读本无另附夹注。"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无另附现代译本。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 4,
+  "characters": 29725,
+  "contentSha256": "4b1a008ff778f10685bd6bc684a32da09a5cb4ff58a7b513b19e4506da2608e5",
+  "workId": "work-fusheng-liuji",
+  "editionId": "edition-fusheng-liuji-ws-01",
+  "collationStatus": "B",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "沈复，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。本读本收录电子本正文。整理贡献沿用相同方式共享许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/2111430"
+  },
+  "creditPage": "s/06.html",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "沈复，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。本读本收录电子本正文。整理贡献沿用相同方式共享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "4b1a008ff778f10685bd6bc684a32da09a5cb4ff58a7b513b19e4506da2608e5",
+    "txtSha256": "cfcb0448d9c6a9949618a4bb755718f75caa96600c025d34b1d07af8387a5a2b",
+    "epubSha256": "894764997da12948be93f5d3803405adaf0c43a3589dcaa4c09faddb77079ae7"
+  },
+  "creditSha256": "eec3161486c4b9f44ad61b18a27179f46cf81e26fdd2d56006ad56c96050a74c"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "zhouyi-jing",
+  "legacyIndex": null,
+  "title": "周易",
+  "aliases": [
+    "周易"
+  ],
+  "byline": "先秦 · 经传旧题",
+  "author": "经传旧题",
+  "dynasty": "先秦",
+  "section": "经",
+  "category": "易类",
+  "genre": "经学",
+  "description": "Kanripo KR1a0001 · 周易正文（不含王弼注文）",
+  "coverAuthor": "先秦 · 经传旧题",
+  "excerpt": "䷀乾下乾上《乾》元亨，利貞。初九、潛龍勿用。九二：見龍在田，利見大人。九三：君子終日乾乾，夕惕若厲。无咎。九四：或躍在淵，无咎。九五：飛龍在天，利見大人。上九：亢龍，有悔。用九：見群龍无首，吉。《彖》",
+  "layout": "classic",
+  "contentVersion": "1.0.1",
+  "workId": "work-zhouyi",
+  "editionId": "edition-zhouyi-jing-01",
+  "edition": "Kanripo KR1a0001 · 周易正文（不含王弼注文）",
+  "collationStatus": "B",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "Kanripo KR1a0001 · 周易正文（不含王弼注文）",
+      "url": "https://github.com/kanripo/KR1a0001/tree/8284adbf9e3435d713180e24f05bf75f8b7d1d96"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "Kanripo KR1a0001 · 周易正文（不含王弼注文）。按所录结构转换。",
+      "url": "https://github.com/kanripo/KR1a0001/tree/8284adbf9e3435d713180e24f05bf75f8b7d1d96"
+    },
+    {
+      "kind": "annotation",
+      "status": "not-applicable",
+      "detail": "本件未另编夹注。"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "未附现代译文。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "此阅读本提供整理文字；原件见出处。"
+    }
+  ],
+  "chapterCount": 69,
+  "characters": 21599,
+  "contentSha256": "bea1462c7e9bbb0c6130554e778e9a4f683ce2bf5b30e710a45a368c9d81b3d8",
+  "exports": {
+    "contentSha256": "bea1462c7e9bbb0c6130554e778e9a4f683ce2bf5b30e710a45a368c9d81b3d8",
+    "licence": "CC BY-SA 4.0",
+    "credit": "汉籍リポジトリ（Kanseki Repository）电子整理，经传旧题。",
+    "method": "子衿古籍据登记版本提取经文、分章并重排。整理贡献按相同许可共享。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "txtSha256": "e323b6df6fe7fb0d5862aec1d31c2b6461065dc9a74bb706fc5bbb41e7836e19",
+    "epubSha256": "6be386d56687f75bb7da312851c860fa9914aaadb48cecebaf06659c5154334b"
+  },
+  "creditPage": "s/25.html",
+  "creditSha256": "1e240130ca91e000c897de6be271fec3dfdad102abc1ba1e45088ac43c74d344"
+}

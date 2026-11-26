@@ -1,0 +1,77 @@
+{
+  "id": "chuanxilu",
+  "legacyIndex": null,
+  "title": "傳習錄",
+  "aliases": [
+    "传习录"
+  ],
+  "byline": "明 · 王守仁及其门人",
+  "author": "王守仁及其门人",
+  "dynasty": "明",
+  "section": "子",
+  "category": "儒家类",
+  "genre": "语录",
+  "description": "上中下三卷。保留语录条次与卷内篇题，略现代网页脚注。",
+  "coverAuthor": "明 · 王守仁及其门人",
+  "excerpt": "徐愛引言先生於《大學》「格物」諸說，悉以舊本為正，蓋先儒所謂「誤本」者也。愛始聞而駭，既而疑，已而殫精竭思，參互錯綜，以質於先生；然後知先生之說若水之寒，若火之",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "workId": "work-chuanxilu",
+  "editionId": "edition-chuanxilu-ws-01",
+  "edition": "中文维基文库《傳習錄》固定修订本",
+  "collationStatus": "B",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "中文维基文库《傳習錄》固定修订本",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/1557064"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库固定页面修订；目录和正文逐卷检核。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/1557064"
+    },
+    {
+      "kind": "annotation",
+      "status": "not-applicable",
+      "detail": "无另附注释。"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无现代译文。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 3,
+  "characters": 65149,
+  "contentSha256": "42c0c944c8d5997a024383248ebaf4f4f6f989c6d4d00b6e60fe824108e40b74",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "王守仁及其门人，中文维基文库贡献者录校。编辑履历见所列固定修订。",
+    "method": "子衿古籍按原页整理为竖排读本。上中下三卷。保留语录条次与卷内篇题，略现代网页脚注。本整理沿用相同许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/1557064"
+  },
+  "creditPage": "s/27.html",
+  "creditSha256": "3cd96be12affad2f479064678c06bf690ae165339bdf7b01fb4a5809757baed2",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "王守仁及其门人，中文维基文库贡献者录校。编辑履历见所列固定修订。",
+    "method": "子衿古籍按原页整理为竖排读本。上中下三卷。保留语录条次与卷内篇题，略现代网页脚注。本整理沿用相同许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "42c0c944c8d5997a024383248ebaf4f4f6f989c6d4d00b6e60fe824108e40b74",
+    "txtSha256": "286ba9984aa5d5e444b7e537ce5ee15859d9e80ca2fdfec3c8ebf37325d75bba",
+    "epubSha256": "594468d6d0e1b5ea2c9eecaa2208703c3fa2f227ceb93e7f0e50ed304d426aae"
+  }
+}

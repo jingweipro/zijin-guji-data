@@ -1,0 +1,78 @@
+{
+  "id": "chajing",
+  "legacyIndex": 7,
+  "title": "茶經",
+  "aliases": [
+    "茶经"
+  ],
+  "byline": "唐 · 陸羽",
+  "author": "陆羽",
+  "dynasty": "唐",
+  "section": "子",
+  "category": "谱录类",
+  "genre": "技艺",
+  "description": "維基文庫《茶經》十篇附原注",
+  "coverAuthor": "唐 · 陸羽",
+  "excerpt": "茶者，南方之嘉木也。一尺、二尺，迺至數十尺。其巴山峽川，有兩人合抱者，伐而掇之。其樹如瓜蘆，葉如梔子，花如白薔薇，實如栟櫚，蒂如丁香，根如胡桃。其字，或從草，或",
+  "layout": "classic",
+  "contentVersion": "1.0.0-ws",
+  "edition": "維基文庫《茶經》十篇附原注",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "維基文庫《茶經》十篇附原注",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/355224"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "中文维基文库逐页固定修订。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/355224"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "同一底本所标随文注文或异文。",
+      "url": "https://zh.wikisource.org/wiki/Special:PermanentLink/355224"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "无另附现代译本。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "无随附影印图片。"
+    }
+  ],
+  "chapterCount": 10,
+  "characters": 7093,
+  "contentSha256": "95a3a6d6252239522134d96b098d84fa7aa2e10397f3aff6eb584cd30407b3e8",
+  "workId": "work-chajing",
+  "editionId": "edition-chajing-ws-01",
+  "collationStatus": "B",
+  "attribution": {
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "陆羽，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "sourceUrl": "https://zh.wikisource.org/wiki/Special:PermanentLink/355224"
+  },
+  "creditPage": "s/08.html",
+  "exports": {
+    "licence": "CC BY-SA 4.0",
+    "credit": "陆羽，中文维基文库贡献者录校，编辑履历见逐页固定修订。",
+    "method": "子衿古籍依所列电子版本分章重排。正文和已标记的夹注分栏排印。整理贡献沿用相同方式共享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "contentSha256": "95a3a6d6252239522134d96b098d84fa7aa2e10397f3aff6eb584cd30407b3e8",
+    "txtSha256": "2464883ed4de5eb7e19515c8e7be9ae115eed86694e5616b8cff229ea4cfde24",
+    "epubSha256": "4a50bd8e906f9ed6872f588bd276e15e8c16d0690ddc2871dd96211f3a623ef7"
+  },
+  "creditSha256": "86b1fe337916a543a61fe1cdd88265d11a47eb269c532ad426be82b5821b2634"
+}
